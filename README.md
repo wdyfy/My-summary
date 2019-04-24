@@ -6,5 +6,5 @@
 | 0421 | [ Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) | [Java](https://github.com/wdyfy/My-summary/blob/master/trie/421.-maximum-xor-of-two-numbers-in-an-array.md) | 1 | Medium | `Trie` |
 | 0676 | [ Implement Magic Dictionary](https://leetcode.com/problems/implement-magic-dictionary/) | [Java](https://github.com/wdyfy/My-summary/blob/master/trie/676.-implement-magic-dictionary.md) | 1 | Medium | `Trie` |
 | 0692 | [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | [Java](https://github.com/wdyfy/My-summary/blob/master/trie/692.-top-k-frequent-words.md) | 1 | Medium | `Trie` |
-
+| 0720 | [Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/) | [Java](https://github.com/wdyfy/My-summary/blob/master/trie/692.-top-k-frequent-words.md) | 1 | Medium | `Trie` |
 
