@@ -20,3 +20,7 @@
 
 * [126. Word Ladder II](bfs/126.-word-ladder-ii.md)
 
+## Dynamic Programming
+
+* [5. Longest Palindromic Substring](dynamic-programming/5.-longest-palindromic-substring.md)
+
