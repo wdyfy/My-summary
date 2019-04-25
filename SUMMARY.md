@@ -9,4 +9,5 @@
 * [692. Top K Frequent Words](trie/692.-top-k-frequent-words.md)
 * [720. Longest Word in Dictionary](trie/720.-longest-word-in-dictionary.md)
 * [1023. Camelcase Matching](trie/1023.-camelcase-matching.md)
+* [1032. Stream of Characters](trie/1032.-stream-of-characters.md)
 
