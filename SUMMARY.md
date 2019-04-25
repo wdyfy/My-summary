@@ -8,4 +8,5 @@
 * [676. Implement Magic Dictionary](trie/676.-implement-magic-dictionary.md)
 * [692. Top K Frequent Words](trie/692.-top-k-frequent-words.md)
 * [720. Longest Word in Dictionary](trie/720.-longest-word-in-dictionary.md)
+* [1023. Camelcase Matching](trie/1023.-camelcase-matching.md)
 
