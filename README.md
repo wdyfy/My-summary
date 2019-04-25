@@ -1,4 +1,4 @@
-# Initial page
+# LeetCode
 
 | NO. | Title | Solution | Note | Difficulty | Tag |
 | :--- | :--- | :--- | :--- | :--- | :--- |
