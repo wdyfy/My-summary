@@ -9,6 +9,7 @@
 | 0421 | [ Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) | [Java](https://github.com/wdyfy/My-summary/blob/master/trie/421.-maximum-xor-of-two-numbers-in-an-array.md) | 1 | Medium | `Trie` |
 | 0648 | [ Replace Words](https://leetcode.com/problems/replace-words/) | [Java](https://github.com/wdyfy/My-summary/blob/master/trie/648.-replace-words.md) | 1 | Medium | `Trie` |
 | 0676 | [ Implement Magic Dictionary](https://leetcode.com/problems/implement-magic-dictionary/) | [Java](https://github.com/wdyfy/My-summary/blob/master/trie/676.-implement-magic-dictionary.md) | 1 | Medium | `Trie` |
+| 0677 | [ Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/) | [Java](https://github.com/wdyfy/My-summary/blob/master/trie/677.-map-sum-pairs.md) | 1 | Medium | `Trie` |
 | 0692 | [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | [Java](https://github.com/wdyfy/My-summary/blob/master/trie/692.-top-k-frequent-words.md) | 1 | Medium | `Trie` |
 | 0720 | [ Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/) | [Java](https://github.com/wdyfy/My-summary/blob/master/trie/720.-longest-word-in-dictionary.md) | 1 | Easy | `Trie` |
 | 1023 | [ Camelcase Matching](https://leetcode.com/problems/camelcase-matching/) | [Java](https://github.com/wdyfy/My-summary/blob/master/trie/1023.-camelcase-matching.md) | 1 | Medium | `Trie`,`Two Pointers` |
