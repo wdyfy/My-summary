@@ -14,4 +14,5 @@
 * [211. Add and Search Word - Data structure design](trie/211.-add-and-search-word-data-structure-design.md)
 * [212. Word Search II](trie/212.-word-search-ii.md)
 * [648. Replace Words](trie/648.-replace-words.md)
+* [677. Map Sum Pairs](trie/677.-map-sum-pairs.md)
 
