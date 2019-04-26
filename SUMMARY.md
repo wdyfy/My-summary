@@ -25,4 +25,5 @@
 * [5. Longest Palindromic Substring](dynamic-programming/5.-longest-palindromic-substring.md)
 * [10. Regular Expression Matching](dynamic-programming/10.-regular-expression-matching.md)
 * [53. Maximum Subarray](dynamic-programming/53.-maximum-subarray.md)
+* [62. Unique Paths](dynamic-programming/62.-unique-paths.md)
 
