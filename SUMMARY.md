@@ -27,4 +27,5 @@
 * [53. Maximum Subarray](dynamic-programming/53.-maximum-subarray.md)
 * [62. Unique Paths](dynamic-programming/62.-unique-paths.md)
 * [63. Unique Paths II](dynamic-programming/63.-unique-paths-ii.md)
+* [64. Minimum Path Sum](dynamic-programming/64.-minimum-path-sum.md)
 
