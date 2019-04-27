@@ -34,4 +34,9 @@
 ## Sort
 
 * [1030. Matrix Cells in Distance Order](sort/1030.-matrix-cells-in-distance-order.md)
+* [Untitled](sort/untitled.md)
+
+## Greedy
+
+* [1029. Two City Scheduling](greedy/1029.-two-city-scheduling.md)
 
