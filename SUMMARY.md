@@ -40,3 +40,7 @@
 
 * [1029. Two City Scheduling](greedy/1029.-two-city-scheduling.md)
 
+## Array
+
+* [1031. Maximum Sum of Two Non-Overlapping Subarrays](array/1031.-maximum-sum-of-two-non-overlapping-subarrays.md)
+
