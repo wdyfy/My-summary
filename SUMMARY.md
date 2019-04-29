@@ -44,3 +44,7 @@
 
 * [1031. Maximum Sum of Two Non-Overlapping Subarrays](array/1031.-maximum-sum-of-two-non-overlapping-subarrays.md)
 
+## Brainteaser
+
+* [1033. Moving Stones Until Consecutive](brainteaser/1033.-moving-stones-until-consecutive.md)
+
