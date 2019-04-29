@@ -25,4 +25,4 @@
 | 1030 | [ Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order/) | [Java](https://github.com/wdyfy/My-summary/blob/master/sort/1030.-matrix-cells-in-distance-order.md) | 2 | Easy | `Sort` |
 | 1031 | [Maximum Sum of Two Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/) | [Java](https://github.com/wdyfy/My-summary/blob/master/array/1031.-maximum-sum-of-two-non-overlapping-subarrays.md) | 2 | Medium | `Array` |
 | 1032 | [ Stream of Characters](https://leetcode.com/problems/stream-of-characters/) | [Java](https://github.com/wdyfy/My-summary/blob/master/trie/1032.-stream-of-characters.md) | 1 | Hard | `Trie` |
-
+| 1033 | [ Moving Stones Until Consecutive]https://leetcode.com/problems/moving-stones-until-consecutive/) | [Java](https://github.com/wdyfy/My-summary/blob/master/brainteaser/1033.-moving-stones-until-consecutive.md) | 1 | Easy | `Trie` |
