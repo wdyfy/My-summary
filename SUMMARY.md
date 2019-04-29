@@ -30,6 +30,7 @@
 * [64. Minimum Path Sum](dynamic-programming/64.-minimum-path-sum.md)
 * [120. Triangle](dynamic-programming/120.-triangle.md)
 * [174. Dungeon Game](dynamic-programming/174.-dungeon-game.md)
+* [1035. Uncrossed Lines](dynamic-programming/1035.-uncrossed-lines.md)
 
 ## Sort
 
