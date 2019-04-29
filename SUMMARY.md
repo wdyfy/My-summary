@@ -48,3 +48,7 @@
 
 * [1033. Moving Stones Until Consecutive](brainteaser/1033.-moving-stones-until-consecutive.md)
 
+## DFS
+
+* [1034. Coloring A Border](dfs/1034.-coloring-a-border.md)
+
