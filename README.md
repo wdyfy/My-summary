@@ -26,5 +26,6 @@
 | 1031 | [Maximum Sum of Two Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/) | [Java](https://github.com/wdyfy/My-summary/blob/master/array/1031.-maximum-sum-of-two-non-overlapping-subarrays.md) | 2 | Medium | `Array` |
 | 1032 | [ Stream of Characters](https://leetcode.com/problems/stream-of-characters/) | [Java](https://github.com/wdyfy/My-summary/blob/master/trie/1032.-stream-of-characters.md) | 1 | Hard | `Trie` |
 | 1033 | [ Moving Stones Until Consecutive](https://leetcode.com/problems/moving-stones-until-consecutive/) | [Java](https://github.com/wdyfy/My-summary/blob/master/brainteaser/1033.-moving-stones-until-consecutive.md) | 1 | Easy | `Braintester` |
-| 1034 | [ Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dfs/1034.-coloring-a-border.md) | 1 | Medium | `DFS` |
+| 1034 | [ Coloring A Border](https://leetcode.com/problems/coloring-a-border/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dfs/1034.-coloring-a-border.md) | 1 | Medium | `DFS` |
+| 1035 | [ Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/1035.-uncrossed-lines.md) | 1 | Medium | `DP` |
 
