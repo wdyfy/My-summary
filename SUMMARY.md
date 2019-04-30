@@ -55,3 +55,8 @@
 * [1034. Coloring A Border](dfs/1034.-coloring-a-border.md)
 * [1036. Escape a Large Maze](dfs/1036.-escape-a-large-maze.md)
 
+## Monotone Stack
+
+* [84. Largest Rectangle in Histogram](monotone-stack/84.-largest-rectangle-in-histogram.md)
+* [85. Maximal Rectangle](monotone-stack/85.-maximal-rectangle.md)
+
