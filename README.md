@@ -20,6 +20,7 @@
 | 0677 | [ Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/) | [Java](https://github.com/wdyfy/My-summary/blob/master/trie/677.-map-sum-pairs.md) | 1 | Medium | `Trie` |
 | 0692 | [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | [Java](https://github.com/wdyfy/My-summary/blob/master/trie/692.-top-k-frequent-words.md) | 1 | Medium | `Trie` |
 | 0720 | [ Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/) | [Java](https://github.com/wdyfy/My-summary/blob/master/trie/720.-longest-word-in-dictionary.md) | 1 | Easy | `Trie` |
+| 0931 | [ Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/931.-minimum-falling-path-sum.md) | 1 | Medium | `DP` |
 | 1023 | [ Camelcase Matching](https://leetcode.com/problems/camelcase-matching/) | [Java](https://github.com/wdyfy/My-summary/blob/master/trie/1023.-camelcase-matching.md) | 1 | Medium | `Trie`,`Two Pointers` |
 | 1029 | [ Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/) | [Java](https://github.com/wdyfy/My-summary/blob/master/greedy/1029.-two-city-scheduling.md) | 2 | Easy | `Greedy` |
 | 1030 | [ Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order/) | [Java](https://github.com/wdyfy/My-summary/blob/master/sort/1030.-matrix-cells-in-distance-order.md) | 2 | Easy | `Sort` |
