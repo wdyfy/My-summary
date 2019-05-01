@@ -9,6 +9,7 @@
 | 0062 | [ Unique Paths](https://leetcode.com/problems/unique-paths/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/62.-unique-paths.md) | 3 | Medium | `DP` |
 | 0063 | [ Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/63.-unique-paths-ii.md) | 1 | Medium | `DP` |
 | 0064 | [ Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/64.-minimum-path-sum.md) | 2 | Medium | `DP` |
+| 0072 | [ Edit Distance](https://leetcode.com/problems/edit-distance/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/72.-edit-distance.md) | 2 | Medium | `DP` |
 | 0084 | [ Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [Java](https://github.com/wdyfy/My-summary/blob/master/monotone-stack/84.-largest-rectangle-in-histogram.md) | 1 | Hard | `Monotone Stack` |
 | 0085 | [ Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | [Java](https://github.com/wdyfy/My-summary/blob/master/monotone-stack/85.-maximal-rectangle.md) | 1 | Hard | `Monotone Stack` |
 | 0120 | [ Triangle](https://leetcode.com/problems/triangle/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/120.-triangle.md) | 1 | Medium | `DP` |
