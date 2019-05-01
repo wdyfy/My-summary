@@ -33,6 +33,7 @@
 * [1035. Uncrossed Lines](dynamic-programming/1035.-uncrossed-lines.md)
 * [931. Minimum Falling Path Sum](dynamic-programming/931.-minimum-falling-path-sum.md)
 * [221. Maximal Square](dynamic-programming/221.-maximal-square.md)
+* [304. Range Sum Query 2D - Immutable](dynamic-programming/304.-range-sum-query-2d-immutable.md)
 
 ## Sort
 
