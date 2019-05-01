@@ -36,6 +36,7 @@
 * [221. Maximal Square](dynamic-programming/221.-maximal-square.md)
 * [304. Range Sum Query 2D - Immutable](dynamic-programming/304.-range-sum-query-2d-immutable.md)
 * [139. Word Break](dynamic-programming/139.-word-break.md)
+* [44. Wildcard Matching](dynamic-programming/44.-wildcard-matching.md)
 
 ## Sort
 
