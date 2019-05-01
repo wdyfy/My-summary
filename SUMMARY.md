@@ -37,6 +37,7 @@
 * [304. Range Sum Query 2D - Immutable](dynamic-programming/304.-range-sum-query-2d-immutable.md)
 * [139. Word Break](dynamic-programming/139.-word-break.md)
 * [44. Wildcard Matching](dynamic-programming/44.-wildcard-matching.md)
+* [72. Edit Distance](dynamic-programming/72.-edit-distance.md)
 
 ## Sort
 
@@ -59,7 +60,7 @@
 
 * [1034. Coloring A Border](dfs/1034.-coloring-a-border.md)
 * [1036. Escape a Large Maze](dfs/1036.-escape-a-large-maze.md)
-* [140. Word Break II](dfs/untitled.md)
+* [140. Word Break II](dfs/140.-word-break-ii.md)
 
 ## Monotone Stack
 
