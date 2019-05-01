@@ -15,7 +15,7 @@
 * [212. Word Search II](trie/212.-word-search-ii.md)
 * [648. Replace Words](trie/648.-replace-words.md)
 * [677. Map Sum Pairs](trie/677.-map-sum-pairs.md)
-* [139. Word Break](trie/139.-word-break.md)
+* [u](trie/139.-word-break.md)
 
 ## BFS
 
@@ -35,6 +35,7 @@
 * [931. Minimum Falling Path Sum](dynamic-programming/931.-minimum-falling-path-sum.md)
 * [221. Maximal Square](dynamic-programming/221.-maximal-square.md)
 * [304. Range Sum Query 2D - Immutable](dynamic-programming/304.-range-sum-query-2d-immutable.md)
+* [139. Word Break](dynamic-programming/139.-word-break.md)
 
 ## Sort
 
