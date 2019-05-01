@@ -4,6 +4,7 @@
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 0005 | [ Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/5.-longest-palindromic-substring.md) | 1 | Medium | `DP` |
 | 0010 | [ Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/10.-regular-expression-matching.md) | 1 | Hard | `DP` |
+| 0044 | [ Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/44.-wildcard-matching.md) | 1 | Hard | `DP` |
 | 0053 | [ Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/53.-maximum-subarray.md) | 1 | Easy | `DP` |
 | 0062 | [ Unique Paths](https://leetcode.com/problems/unique-paths/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/62.-unique-paths.md) | 3 | Medium | `DP` |
 | 0063 | [ Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/63.-unique-paths-ii.md) | 1 | Medium | `DP` |
@@ -13,6 +14,7 @@
 | 0120 | [ Triangle](https://leetcode.com/problems/triangle/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/120.-triangle.md) | 1 | Medium | `DP` |
 | 0126 | [ Word Ladder II](https://leetcode.com/problems/word-ladder-ii/) | [Java](https://github.com/wdyfy/My-summary/blob/master/bfs/126.-word-ladder-ii.md) | 1 | Hard | `BFS` |
 | 0139 | [  Word Break](https://leetcode.com/problems/word-break/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/139.-word-break.md) | 1 | Medium | `DP` |
+| 0140 | [  Word Break II](https://leetcode.com/problems/word-break-ii/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dfs/%20140.%20Word%20Break%20II.md) | 1 | Hard| `DP`,`DFS` |
 | 0174 | [ Dungeon Game](https://leetcode.com/problems/dungeon-game/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/174.-dungeon-game.md) | 1 | Hard | `DP` |
 | 0208 | [ Implement Trie \(Prefix Tree\)](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) | [Java](https://github.com/wdyfy/My-summary/blob/master/trie/208.-implement-trie-prefix-tree.md) | 2 | Medium | `Trie` |
 | 0211 | [  Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/) | [Java](https://github.com/wdyfy/My-summary/blob/master/trie/211.-add-and-search-word-data-structure-design.md) | 1 | Medium | `Trie` |
