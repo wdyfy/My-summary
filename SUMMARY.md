@@ -32,6 +32,7 @@
 * [174. Dungeon Game](dynamic-programming/174.-dungeon-game.md)
 * [1035. Uncrossed Lines](dynamic-programming/1035.-uncrossed-lines.md)
 * [931. Minimum Falling Path Sum](dynamic-programming/931.-minimum-falling-path-sum.md)
+* [221. Maximal Square](dynamic-programming/221.-maximal-square.md)
 
 ## Sort
 
