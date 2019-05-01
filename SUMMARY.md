@@ -15,6 +15,7 @@
 * [212. Word Search II](trie/212.-word-search-ii.md)
 * [648. Replace Words](trie/648.-replace-words.md)
 * [677. Map Sum Pairs](trie/677.-map-sum-pairs.md)
+* [139. Word Break](trie/139.-word-break.md)
 
 ## BFS
 
