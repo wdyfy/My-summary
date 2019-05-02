@@ -23,6 +23,7 @@
 | 0211 | [  Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/) | [Java](https://github.com/wdyfy/My-summary/blob/master/trie/211.-add-and-search-word-data-structure-design.md) | 1 | Medium | `Trie` |
 | 0212 | [  Word Search II](https://leetcode.com/problems/word-search-ii/) | [Java](https://github.com/wdyfy/My-summary/blob/master/trie/212.-word-search-ii.md) | 1 | Hard | `Trie` |
 | 0221 | [  Maximal Square](https://leetcode.com/problems/maximal-square/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/221.-maximal-square.md) | 1 | Medimu | `DP` |
+| 0300 | [  Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/300.-longest-increasing-subsequence.md) | 1 | Medimu | `DP` |
 | 0304 | [  Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/304.-range-sum-query-2d-immutable.md) | 1 | Medimu | `DP` |
 | 0421 | [ Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) | [Java](https://github.com/wdyfy/My-summary/blob/master/trie/421.-maximum-xor-of-two-numbers-in-an-array.md) | 1 | Medium | `Trie` |
 | 0648 | [ Replace Words](https://leetcode.com/problems/replace-words/) | [Java](https://github.com/wdyfy/My-summary/blob/master/trie/648.-replace-words.md) | 1 | Medium | `Trie` |
