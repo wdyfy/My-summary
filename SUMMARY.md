@@ -39,6 +39,7 @@
 * [44. Wildcard Matching](dynamic-programming/44.-wildcard-matching.md)
 * [72. Edit Distance](dynamic-programming/72.-edit-distance.md)
 * [97. Interleaving String](dynamic-programming/97.-interleaving-string.md)
+* [115. Distinct Subsequences](dynamic-programming/115.-distinct-subsequences.md)
 
 ## Sort
 
