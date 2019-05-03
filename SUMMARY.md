@@ -41,6 +41,7 @@
 * [97. Interleaving String](dynamic-programming/97.-interleaving-string.md)
 * [115. Distinct Subsequences](dynamic-programming/115.-distinct-subsequences.md)
 * [300. Longest Increasing Subsequence](dynamic-programming/300.-longest-increasing-subsequence.md)
+* [322. Coin Change](dynamic-programming/322.-coin-change.md)
 
 ## Sort
 
