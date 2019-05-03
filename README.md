@@ -26,6 +26,7 @@
 | 0300 | [  Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/300.-longest-increasing-subsequence.md) | 1 | Medimu | `DP` |
 | 0304 | [  Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/304.-range-sum-query-2d-immutable.md) | 1 | Medimu | `DP` |
 | 0322 | [  Coin Change](https://leetcode.com/problems/coin-change/submissions/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/322.-coin-change.md) | 1 | Medimu | `DP` |
+| 0377 | [  Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/377.-combination-sum-iv.md) | 1 | Medimu | `DP` |
 | 0421 | [ Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) | [Java](https://github.com/wdyfy/My-summary/blob/master/trie/421.-maximum-xor-of-two-numbers-in-an-array.md) | 1 | Medium | `Trie` |
 | 0648 | [ Replace Words](https://leetcode.com/problems/replace-words/) | [Java](https://github.com/wdyfy/My-summary/blob/master/trie/648.-replace-words.md) | 1 | Medium | `Trie` |
 | 0676 | [ Implement Magic Dictionary](https://leetcode.com/problems/implement-magic-dictionary/) | [Java](https://github.com/wdyfy/My-summary/blob/master/trie/676.-implement-magic-dictionary.md) | 1 | Medium | `Trie` |
