@@ -44,6 +44,7 @@
 * [322. Coin Change](dynamic-programming/322.-coin-change.md)
 * [377. Combination Sum IV](dynamic-programming/377.-combination-sum-iv.md)
 * [416. Partition Equal Subset Sum](dynamic-programming/416.-partition-equal-subset-sum.md)
+* [494. Target Sum](dynamic-programming/494.-target-sum.md)
 
 ## Sort
 
