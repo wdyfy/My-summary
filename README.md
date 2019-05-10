@@ -25,10 +25,11 @@
 | 0211 | [  Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/) | [Java](https://github.com/wdyfy/My-summary/blob/master/trie/211.-add-and-search-word-data-structure-design.md) | 1 | Medium | `Trie` |
 | 0212 | [  Word Search II](https://leetcode.com/problems/word-search-ii/) | [Java](https://github.com/wdyfy/My-summary/blob/master/trie/212.-word-search-ii.md) | 1 | Hard | `Trie` |
 | 0221 | [  Maximal Square](https://leetcode.com/problems/maximal-square/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/221.-maximal-square.md) | 1 | Medimu | `DP` |
-| 0256 | [  Paint House$](./##) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/256.-paint-house.md) | 1 | Easy | `DP` |
+| 0256 | [  Paint House$](##) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/256.-paint-house.md) | 1 | Easy | `DP` |
 | 0263 | [  Ugly Number](https://leetcode.com/problems/ugly-number/) | [Java](https://github.com/wdyfy/My-summary/blob/master/math/263.-ugly-number.md) | 1 | Easy | `Math` |
 | 0264 | [  Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/264.-ugly-number-ii.md) | 1 | Medium | `DP` |
-| 0265 | [  Paint House II$](./##) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/265.-paint-house-ii.md) | 1 | Hard | `DP` |
+| 0265 | [  Paint House II$](##) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/265.-paint-house-ii.md) | 1 | Hard | `DP` |
+| 0276 | [  Paint Fence$](##) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/276.-paint-fence.md) | 1 | Easy | `DP` |
 | 0300 | [  Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/300.-longest-increasing-subsequence.md) | 1 | Medimu | `DP` |
 | 0304 | [  Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/304.-range-sum-query-2d-immutable.md) | 1 | Medimu | `DP` |
 | 0322 | [  Coin Change](https://leetcode.com/problems/coin-change/submissions/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/322.-coin-change.md) | 1 | Medimu | `DP` |
