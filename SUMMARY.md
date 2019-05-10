@@ -45,6 +45,11 @@
 * [377. Combination Sum IV](dynamic-programming/377.-combination-sum-iv.md)
 * [416. Partition Equal Subset Sum](dynamic-programming/416.-partition-equal-subset-sum.md)
 * [494. Target Sum](dynamic-programming/494.-target-sum.md)
+* [87. Scramble String](dynamic-programming/87.-scramble-string.md)
+* [132. Palindrome Partitioning II](dynamic-programming/132.palindrome-partitioning-ii.md)
+* [256. Paint House](dynamic-programming/256.-paint-house.md)
+* [265. Paint House II](dynamic-programming/265.-paint-house-ii.md)
+* [264. Ugly Number II](dynamic-programming/264.-ugly-number-ii.md)
 
 ## Sort
 
@@ -68,9 +73,14 @@
 * [1034. Coloring A Border](dfs/1034.-coloring-a-border.md)
 * [1036. Escape a Large Maze](dfs/1036.-escape-a-large-maze.md)
 * [140. Word Break II](dfs/140.-word-break-ii.md)
+* [140. Word Break II](dfs/140.-word-break-ii-1.md)
 
 ## Monotone Stack
 
 * [84. Largest Rectangle in Histogram](monotone-stack/84.-largest-rectangle-in-histogram.md)
 * [85. Maximal Rectangle](monotone-stack/85.-maximal-rectangle.md)
+
+## Math
+
+* [263. Ugly Number](math/263.-ugly-number.md)
 
