@@ -32,6 +32,7 @@
 | 0276 | [  Paint Fence$](./##) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/276.-paint-fence.md) | 1 | Easy | `DP` |
 | 0300 | [  Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/300.-longest-increasing-subsequence.md) | 1 | Medimu | `DP` |
 | 0304 | [  Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/304.-range-sum-query-2d-immutable.md) | 1 | Medimu | `DP` |
+| 0312 | [  Burst Balloons](https://leetcode.com/problems/burst-balloons/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/312.-burst-balloons.md) | 1 | Hard | `DP` |
 | 0322 | [  Coin Change](https://leetcode.com/problems/coin-change/submissions/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/322.-coin-change.md) | 1 | Medimu | `DP` |
 | 0377 | [  Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/377.-combination-sum-iv.md) | 1 | Medimu | `DP` |
 | 0416 | [  Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/377.-combination-sum-iv.md) | 1 | Medimu | `DP` |
