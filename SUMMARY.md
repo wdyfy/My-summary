@@ -51,6 +51,7 @@
 * [265. Paint House II](dynamic-programming/265.-paint-house-ii.md)
 * [264. Ugly Number II](dynamic-programming/264.-ugly-number-ii.md)
 * [276. Paint Fence](dynamic-programming/276.-paint-fence.md)
+* [312. Burst Balloons](dynamic-programming/312.-burst-balloons.md)
 
 ## Sort
 
