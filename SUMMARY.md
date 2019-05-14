@@ -56,6 +56,7 @@
 * [357. Count Numbers with Unique Digits](dynamic-programming/357.-count-numbers-with-unique-digits.md)
 * [361. Bomb Enemy](dynamic-programming/361.-bomb-enemy.md)
 * [363. Max Sum of Rectangle No Larger Than K](dynamic-programming/363.-max-sum-of-rectangle-no-larger-than-k.md)
+* [1039. Minimum Score Triangulation of Polygon](dynamic-programming/1039.-minimum-score-triangulation-of-polygon.md)
 
 ## Sort
 
@@ -89,8 +90,17 @@
 ## Math
 
 * [263. Ugly Number](math/263.-ugly-number.md)
+* [1037. Valid Boomerang](math/1037.-valid-boomerang.md)
 
 ## Binary Search
 
 * [374. Guess Number Higher or Lower](binary-search/374.-guess-number-higher-or-lower.md)
+
+## Tree
+
+* [1038. Binary Search Tree to Greater Sum Tree](tree/1038.-binary-search-tree-to-greater-sum-tree.md)
+
+## Sliding Windows
+
+* [1040. Moving Stones Until Consecutive II](sliding-windows/1040.-moving-stones-until-consecutive-ii.md)
 
