@@ -55,6 +55,7 @@
 * [351. Android Unlock Patterns](dynamic-programming/351.-android-unlock-patterns.md)
 * [357. Count Numbers with Unique Digits](dynamic-programming/357.-count-numbers-with-unique-digits.md)
 * [361. Bomb Enemy](dynamic-programming/361.-bomb-enemy.md)
+* [363. Max Sum of Rectangle No Larger Than K](dynamic-programming/363.-max-sum-of-rectangle-no-larger-than-k.md)
 
 ## Sort
 

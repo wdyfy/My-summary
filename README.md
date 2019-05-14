@@ -34,9 +34,9 @@
 | 0304 | [  Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/304.-range-sum-query-2d-immutable.md) | 1 | Medimu | `DP` |
 | 0312 | [  Burst Balloons](https://leetcode.com/problems/burst-balloons/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/312.-burst-balloons.md) | 1 | Hard | `DP` |
 | 0322 | [  Coin Change](https://leetcode.com/problems/coin-change/submissions/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/322.-coin-change.md) | 1 | Medimu | `DP` |
-| 0351 | [  Android Unlock Patterns$](#) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/351.-android-unlock-patterns.md) | 1 | Medimu | `DP` |
+| 0351 | [  Android Unlock Patterns$](./) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/351.-android-unlock-patterns.md) | 1 | Medimu | `DP` |
 | 0357 | [  Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/357.-count-numbers-with-unique-digits.md) | 1 | Medimu | `DP` |
-| 0361 | [  Bomb Enemy$](#) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/361.-bomb-enemy.md) | 1 | Medimu | `DP` |
+| 0361 | [  Bomb Enemy$](./) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/361.-bomb-enemy.md) | 1 | Medimu | `DP` |
 | 0377 | [  Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/377.-combination-sum-iv.md) | 1 | Medimu | `DP` |
 | 0416 | [  Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/377.-combination-sum-iv.md) | 1 | Medimu | `DP` |
 | 0421 | [ Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/416.-partition-equal-subset-sum.md) | 1 | Medium | `DP` |
