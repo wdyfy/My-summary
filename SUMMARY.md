@@ -54,6 +54,7 @@
 * [312. Burst Balloons](dynamic-programming/312.-burst-balloons.md)
 * [351. Android Unlock Patterns](dynamic-programming/351.-android-unlock-patterns.md)
 * [357. Count Numbers with Unique Digits](dynamic-programming/357.-count-numbers-with-unique-digits.md)
+* [361. Bomb Enemy](dynamic-programming/361.-bomb-enemy.md)
 
 ## Sort
 
