@@ -90,3 +90,7 @@
 
 * [263. Ugly Number](math/263.-ugly-number.md)
 
+## Binary Search
+
+* [374. Guess Number Higher or Lower](binary-search/374.-guess-number-higher-or-lower.md)
+
