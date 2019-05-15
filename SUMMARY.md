@@ -86,6 +86,7 @@
 
 * [84. Largest Rectangle in Histogram](monotone-stack/84.-largest-rectangle-in-histogram.md)
 * [85. Maximal Rectangle](monotone-stack/85.-maximal-rectangle.md)
+* [42.Trapping Rain Water](monotone-stack/42.trapping-rain-water.md)
 
 ## Math
 
