@@ -58,8 +58,8 @@
 | 1034 | [ Coloring A Border](https://leetcode.com/problems/coloring-a-border/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dfs/1034.-coloring-a-border.md) | 1 | Medium | `DFS` |
 | 1035 | [ Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/1035.-uncrossed-lines.md) | 1 | Medium | `DP` |
 | 1036 | [ Escape a Large Maze](https://leetcode.com/problems/escape-a-large-maze/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dfs/1036.-escape-a-large-maze.md) | 1 | Hard | `DFS` |
-| 1037 | [ Escape a Large Maze](https://leetcode.com/problems/escape-a-large-maze/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dfs/1036.-escape-a-large-maze.md) | 1 | Hard | `DFS` |
-| 1038 | [ Escape a Large Maze](https://leetcode.com/problems/escape-a-large-maze/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dfs/1036.-escape-a-large-maze.md) | 1 | Hard | `DFS` |
+| 1037 | [ Valid Boomerang](https://leetcode.com/problems/valid-boomerang/) | [Java](https://github.com/wdyfy/My-summary/blob/master/math/1037.-valid-boomerang.md) | 1 | Easy | `Math` |
+| 1038 | [ Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/) | [Java](https://github.com/wdyfy/My-summary/blob/master/tree/1038.-binary-search-tree-to-greater-sum-tree.md) | 1 | Medium | `Tree` |
 | 1039 | [ Minimum Score Triangulation of Polygon](https://leetcode.com/problems/minimum-score-triangulation-of-polygon/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/1039.-minimum-score-triangulation-of-polygon.md) | 1 | Medium | `DP` |
 | 1040 | [ Moving Stones Until Consecutive II](https://leetcode.com/problems/moving-stones-until-consecutive-ii/) | [Java](https://github.com/wdyfy/My-summary/blob/master/sliding-windows/1040.-moving-stones-until-consecutive-ii.md) | 1 | Medium | `Sliding Window` |
 
