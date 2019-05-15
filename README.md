@@ -4,6 +4,7 @@
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 0005 | [ Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/5.-longest-palindromic-substring.md) | 1 | Medium | `DP` |
 | 0010 | [ Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/10.-regular-expression-matching.md) | 1 | Hard | `DP` |
+| 0042 | [ Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Java](https://github.com/wdyfy/My-summary/blob/master/monotone-stack/42.trapping-rain-water.md) | 1 | Hard | `Monotone Stack` |
 | 0044 | [ Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/44.-wildcard-matching.md) | 1 | Hard | `DP` |
 | 0053 | [ Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/53.-maximum-subarray.md) | 1 | Easy | `DP` |
 | 0062 | [ Unique Paths](https://leetcode.com/problems/unique-paths/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/62.-unique-paths.md) | 3 | Medium | `DP` |
