@@ -44,6 +44,7 @@
 | 0416 | [  Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/377.-combination-sum-iv.md) | 1 | Medimu | `DP` |
 | 0421 | [ Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/416.-partition-equal-subset-sum.md) | 1 | Medium | `DP` |
 | 0494 | [ Target Sum](https://leetcode.com/problems/target-sum/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/494.-target-sum.md) | 1 | Medium | `DP` |
+| 0496 | [ Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [Java](https://github.com/wdyfy/My-summary/blob/master/monotone-stack/496.-next-greater-element-i.md) | 1 | Easy | `Monotone Stack` |
 | 0648 | [ Replace Words](https://leetcode.com/problems/replace-words/) | [Java](https://github.com/wdyfy/My-summary/blob/master/trie/648.-replace-words.md) | 1 | Medium | `Trie` |
 | 0676 | [ Implement Magic Dictionary](https://leetcode.com/problems/implement-magic-dictionary/) | [Java](https://github.com/wdyfy/My-summary/blob/master/trie/676.-implement-magic-dictionary.md) | 1 | Medium | `Trie` |
 | 0677 | [ Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/) | [Java](https://github.com/wdyfy/My-summary/blob/master/trie/677.-map-sum-pairs.md) | 1 | Medium | `Trie` |
