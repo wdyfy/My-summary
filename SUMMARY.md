@@ -92,6 +92,7 @@
 * [739. Daily Temperatures](monotone-stack/739.-daily-temperatures.md)
 * [1019. Next Greater Node In Linked List](monotone-stack/1019.-next-greater-node-in-linked-list.md)
 * [402. Remove K Digits](monotone-stack/402.-remove-k-digits.md)
+* [316. Remove Duplicate Letters](monotone-stack/316.-remove-duplicate-letters.md)
 
 ## Math
 
