@@ -89,6 +89,7 @@
 * [42.Trapping Rain Water](monotone-stack/42.trapping-rain-water.md)
 * [496. Next Greater Element I](monotone-stack/496.-next-greater-element-i.md)
 * [503. Next Greater Element II](monotone-stack/503.-next-greater-element-ii.md)
+* [739. Daily Temperatures](monotone-stack/739.-daily-temperatures.md)
 
 ## Math
 
