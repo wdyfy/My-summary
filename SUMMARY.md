@@ -90,6 +90,7 @@
 * [496. Next Greater Element I](monotone-stack/496.-next-greater-element-i.md)
 * [503. Next Greater Element II](monotone-stack/503.-next-greater-element-ii.md)
 * [739. Daily Temperatures](monotone-stack/739.-daily-temperatures.md)
+* [1019. Next Greater Node In Linked List](monotone-stack/1019.-next-greater-node-in-linked-list.md)
 
 ## Math
 
