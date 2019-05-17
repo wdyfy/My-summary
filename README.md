@@ -23,7 +23,7 @@
 | 0140 | [  Word Break II](https://leetcode.com/problems/word-break-ii/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dfs/%20140.%20Word%20Break%20II.md) | 1 | Hard | `DP`,`DFS` |
 | 0151 | [  Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Java](https://github.com/wdyfy/My-summary/blob/master/string/151.-reverse-words-in-a-string.md) | 1 | Medium | `String` |
 | 0174 | [ Dungeon Game](https://leetcode.com/problems/dungeon-game/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/174.-dungeon-game.md) | 1 | Hard | `DP` |
-| 0186 | [ Reverse Words in a String II$](./) | [Java](https://github.com/wdyfy/My-summary/blob/master/string/186.-reverse-words-in-a-string-ii.md) | 1 | Medium | `String` |
+| 0186 | [ Reverse Words in a String II$](#) | [Java](https://github.com/wdyfy/My-summary/blob/master/string/186.-reverse-words-in-a-string-ii.md) | 1 | Medium | `String` |
 | 0208 | [ Implement Trie \(Prefix Tree\)](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) | [Java](https://github.com/wdyfy/My-summary/blob/master/trie/208.-implement-trie-prefix-tree.md) | 2 | Medium | `Trie` |
 | 0211 | [  Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/) | [Java](https://github.com/wdyfy/My-summary/blob/master/trie/211.-add-and-search-word-data-structure-design.md) | 1 | Medium | `Trie` |
 | 0212 | [  Word Search II](https://leetcode.com/problems/word-search-ii/) | [Java](https://github.com/wdyfy/My-summary/blob/master/trie/212.-word-search-ii.md) | 1 | Hard | `Trie` |
@@ -49,6 +49,7 @@
 | 0494 | [ Target Sum](https://leetcode.com/problems/target-sum/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/494.-target-sum.md) | 1 | Medium | `DP` |
 | 0496 | [ Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [Java](https://github.com/wdyfy/My-summary/blob/master/monotone-stack/496.-next-greater-element-i.md) | 1 | Easy | `Monotone Stack` |
 | 0503 | [ Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | [Java](https://github.com/wdyfy/My-summary/blob/master/monotone-stack/503.-next-greater-element-ii.md) | 2 | Medium | `Monotone Stack` |
+| 0551 | [ Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [Java](https://github.com/wdyfy/My-summary/blob/master/string/557.-reverse-words-in-a-string-iii.md) | 1 | Easy | `String` |
 | 0648 | [ Replace Words](https://leetcode.com/problems/replace-words/) | [Java](https://github.com/wdyfy/My-summary/blob/master/trie/648.-replace-words.md) | 1 | Medium | `Trie` |
 | 0676 | [ Implement Magic Dictionary](https://leetcode.com/problems/implement-magic-dictionary/) | [Java](https://github.com/wdyfy/My-summary/blob/master/trie/676.-implement-magic-dictionary.md) | 1 | Medium | `Trie` |
 | 0677 | [ Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/) | [Java](https://github.com/wdyfy/My-summary/blob/master/trie/677.-map-sum-pairs.md) | 1 | Medium | `Trie` |
