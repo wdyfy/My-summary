@@ -18,6 +18,7 @@
 | 0097 | [ Interleaving String](https://leetcode.com/problems/interleaving-string/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/97.-interleaving-string.md) | 1 | Hard | `DP` |
 | 0115 | [ Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/115.-distinct-subsequences.md) | 1 | Hard | `DP` |
 | 0120 | [ Triangle](https://leetcode.com/problems/triangle/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/120.-triangle.md) | 1 | Medium | `DP` |
+| 0125 | [ Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Java](https://github.com/wdyfy/My-summary/blob/master/string/125.-valid-palindrome.md) | 1 | Easy | `String` |
 | 0126 | [ Word Ladder II](https://leetcode.com/problems/word-ladder-ii/) | [Java](https://github.com/wdyfy/My-summary/blob/master/bfs/126.-word-ladder-ii.md) | 1 | Hard | `BFS` |
 | 0132 | [ Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/132.palindrome-partitioning-ii.md) | 1 | Hard | `DP` |
 | 0139 | [  Word Break](https://leetcode.com/problems/word-break/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/139.-word-break.md) | 1 | Medium | `DP` |
@@ -42,7 +43,7 @@
 | 0322 | [  Coin Change](https://leetcode.com/problems/coin-change/submissions/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/322.-coin-change.md) | 1 | Medimu | `DP` |
 | 0351 | [  Android Unlock Patterns$](./) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/351.-android-unlock-patterns.md) | 1 | Medimu | `DP` |
 | 0357 | [  Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/357.-count-numbers-with-unique-digits.md) | 1 | Medimu | `DP` |
-| 0359 | [  Logger Rate Limiter$](./) | [Java](https://github.com/wdyfy/My-summary/blob/master/design/359.-logger-rate-limiter.md) | 1 | Easy | `Design` |
+| 0359 | [  Logger Rate Limiter$](#) | [Java](https://github.com/wdyfy/My-summary/blob/master/design/359.-logger-rate-limiter.md) | 1 | Easy | `Design` |
 | 0361 | [  Bomb Enemy$](./) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/361.-bomb-enemy.md) | 1 | Medimu | `DP` |
 | 0363 | [  Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/363.-max-sum-of-rectangle-no-larger-than-k.md) | 1 | Hard | `DP` |
 | 0375 | [  Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | [Java](https://github.com/wdyfy/My-summary/blob/master/binary-search/374.-guess-number-higher-or-lower.md) | 1 | Easy | `BS` |
