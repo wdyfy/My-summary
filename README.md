@@ -3,7 +3,7 @@
 | NO. | Title | Solution | Note | Difficulty | Tag |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 0003 | [  Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Java](https://github.com/wdyfy/My-summary/blob/master/string/3.-longest-substring-without-repeating-characters.md) | 3 | Medium | `String` |
-| 0005 | [ Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/5.-longest-palindromic-substring.md) | 1 | Medium | `DP` |
+| 0005 | [ Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/5.-longest-palindromic-substring.md) | 2 | Medium | `DP` |
 | 0010 | [ Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/10.-regular-expression-matching.md) | 1 | Hard | `DP` |
 | 0042 | [ Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Java](https://github.com/wdyfy/My-summary/blob/master/monotone-stack/42.trapping-rain-water.md) | 1 | Hard | `Monotone Stack` |
 | 0044 | [ Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/44.-wildcard-matching.md) | 1 | Hard | `DP` |
