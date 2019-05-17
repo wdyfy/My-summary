@@ -42,7 +42,7 @@
 | 0322 | [  Coin Change](https://leetcode.com/problems/coin-change/submissions/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/322.-coin-change.md) | 1 | Medimu | `DP` |
 | 0351 | [  Android Unlock Patterns$](./) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/351.-android-unlock-patterns.md) | 1 | Medimu | `DP` |
 | 0357 | [  Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/357.-count-numbers-with-unique-digits.md) | 1 | Medimu | `DP` |
-| 0359 | [  Logger Rate Limiter$](#) | [Java](https://github.com/wdyfy/My-summary/blob/master/design/359.-logger-rate-limiter.md) | 1 | Easy | `Design` |
+| 0359 | [  Logger Rate Limiter$](./) | [Java](https://github.com/wdyfy/My-summary/blob/master/design/359.-logger-rate-limiter.md) | 1 | Easy | `Design` |
 | 0361 | [  Bomb Enemy$](./) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/361.-bomb-enemy.md) | 1 | Medimu | `DP` |
 | 0363 | [  Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/363.-max-sum-of-rectangle-no-larger-than-k.md) | 1 | Hard | `DP` |
 | 0375 | [  Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | [Java](https://github.com/wdyfy/My-summary/blob/master/binary-search/374.-guess-number-higher-or-lower.md) | 1 | Easy | `BS` |
