@@ -119,3 +119,7 @@
 * [189. Rotate Array](string/189.-rotate-array.md)
 * [3. Longest Substring Without Repeating Characters](string/3.-longest-substring-without-repeating-characters.md)
 
+## Design
+
+* [359. Logger Rate Limiter](design/359.-logger-rate-limiter.md)
+
