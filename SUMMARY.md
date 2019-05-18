@@ -119,6 +119,7 @@
 * [189. Rotate Array](string/189.-rotate-array.md)
 * [3. Longest Substring Without Repeating Characters](string/3.-longest-substring-without-repeating-characters.md)
 * [125. Valid Palindrome](string/125.-valid-palindrome.md)
+* [266. Palindrome Permutation](string/266.-palindrome-permutation.md)
 
 ## Design
 
