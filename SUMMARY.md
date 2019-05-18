@@ -120,6 +120,7 @@
 * [3. Longest Substring Without Repeating Characters](string/3.-longest-substring-without-repeating-characters.md)
 * [125. Valid Palindrome](string/125.-valid-palindrome.md)
 * [266. Palindrome Permutation](string/266.-palindrome-permutation.md)
+* [31. Next Permutation](string/31.-next-permutation.md)
 
 ## Design
 
