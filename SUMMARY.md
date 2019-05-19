@@ -122,6 +122,7 @@
 * [266. Palindrome Permutation](string/266.-palindrome-permutation.md)
 * [31. Next Permutation](string/31.-next-permutation.md)
 * [267. Palindrome Permutation II](string/267.-palindrome-permutation-ii.md)
+* [214. Shortest Palindrome](string/214.-shortest-palindrome.md)
 
 ## Design
 
@@ -134,4 +135,8 @@
 ## Stack
 
 * [1047. Remove All Adjacent Duplicates In String](stack/1047.-remove-all-adjacent-duplicates-in-string.md)
+
+## 常用算法
+
+* [KMP](chang-yong-suan-fa/kmp.md)
 
