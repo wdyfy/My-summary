@@ -77,4 +77,5 @@
 | 1038 | [ Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/) | [Java](https://github.com/wdyfy/My-summary/blob/master/tree/1038.-binary-search-tree-to-greater-sum-tree.md) | 1 | Medium | `Tree` |
 | 1039 | [ Minimum Score Triangulation of Polygon](https://leetcode.com/problems/minimum-score-triangulation-of-polygon/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/1039.-minimum-score-triangulation-of-polygon.md) | 1 | Medium | `DP` |
 | 1040 | [ Moving Stones Until Consecutive II](https://leetcode.com/problems/moving-stones-until-consecutive-ii/) | [Java](https://github.com/wdyfy/My-summary/blob/master/sliding-windows/1040.-moving-stones-until-consecutive-ii.md) | 1 | Medium | `Sliding Window` |
-
+| 1046 | [ Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | [Java](https://github.com/wdyfy/My-summary/blob/master/priorityqueue/1046.-last-stone-weight.md) | 1 | Easy | `PriorityQueue` |
+| 1047 | [ Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | [Java](https://github.com/wdyfy/My-summary/blob/master/stack/1047.-remove-all-adjacent-duplicates-in-string.md) | 1 | Easy | `Stack` |
