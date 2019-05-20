@@ -8,6 +8,7 @@
 | 0010 | [ Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/10.-regular-expression-matching.md) | 1 | Hard | `DP` |
 | 0031 | [ Next Permutation](https://leetcode.com/problems/next-permutation/) | [Java](https://github.com/wdyfy/My-summary/blob/master/string/31.-next-permutation.md) | 1 | Medium | `String` |
 | 0042 | [ Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Java](https://github.com/wdyfy/My-summary/blob/master/monotone-stack/42.trapping-rain-water.md) | 1 | Hard | `Monotone Stack` |
+| 0043 | [ Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [Java](https://github.com/wdyfy/My-summary/blob/master/string/43.-multiply-strings.md) | 1 | Medium | `String` |
 | 0044 | [ Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/44.-wildcard-matching.md) | 1 | Hard | `DP` |
 | 0053 | [ Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/53.-maximum-subarray.md) | 1 | Easy | `DP` |
 | 0062 | [ Unique Paths](https://leetcode.com/problems/unique-paths/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/62.-unique-paths.md) | 3 | Medium | `DP` |
