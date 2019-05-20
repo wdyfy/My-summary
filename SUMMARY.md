@@ -141,3 +141,7 @@
 
 * [KMP](chang-yong-suan-fa/kmp.md)
 
+## List
+
+* [2. Add Two Numbers](list/2.-add-two-numbers.md)
+
