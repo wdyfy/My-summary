@@ -80,3 +80,4 @@
 | 1040 | [ Moving Stones Until Consecutive II](https://leetcode.com/problems/moving-stones-until-consecutive-ii/) | [Java](https://github.com/wdyfy/My-summary/blob/master/sliding-windows/1040.-moving-stones-until-consecutive-ii.md) | 1 | Medium | `Sliding Window` |
 | 1046 | [ Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | [Java](https://github.com/wdyfy/My-summary/blob/master/priorityqueue/1046.-last-stone-weight.md) | 1 | Easy | `PriorityQueue` |
 | 1047 | [ Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | [Java](https://github.com/wdyfy/My-summary/blob/master/stack/1047.-remove-all-adjacent-duplicates-in-string.md) | 1 | Easy | `Stack` |
+
