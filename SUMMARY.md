@@ -123,6 +123,7 @@
 * [31. Next Permutation](string/31.-next-permutation.md)
 * [267. Palindrome Permutation II](string/267.-palindrome-permutation-ii.md)
 * [214. Shortest Palindrome](string/214.-shortest-palindrome.md)
+* [67. Add Binary](string/67.-add-binary.md)
 
 ## Design
 
