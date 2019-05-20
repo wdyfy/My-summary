@@ -124,6 +124,7 @@
 * [267. Palindrome Permutation II](string/267.-palindrome-permutation-ii.md)
 * [214. Shortest Palindrome](string/214.-shortest-palindrome.md)
 * [67. Add Binary](string/67.-add-binary.md)
+* [43. Multiply Strings](string/43.-multiply-strings.md)
 
 ## Design
 
