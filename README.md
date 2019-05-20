@@ -41,6 +41,7 @@
 | 0264 | [  Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/264.-ugly-number-ii.md) | 1 | Medium | `DP` |
 | 0265 | [  Paint House II$](./##) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/265.-paint-house-ii.md) | 1 | Hard | `DP` |
 | 0266 | [  Palindrome Permutation](./##) | [Java](https://github.com/wdyfy/My-summary/blob/master/string/266.-palindrome-permutation.md) | 1 | Easy | `String` |
+| 0271 | [  Encode and Decode Strings$](./##) | [Java](https://github.com/wdyfy/My-summary/blob/master/string/271.-encode-and-decode-strings.md) | 1 | Medium | `String` |
 | 0276 | [  Paint Fence$](./##) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/276.-paint-fence.md) | 1 | Easy | `DP` |
 | 0300 | [  Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/300.-longest-increasing-subsequence.md) | 1 | Medimu | `DP` |
 | 0304 | [  Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/304.-range-sum-query-2d-immutable.md) | 1 | Medimu | `DP` |
