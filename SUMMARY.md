@@ -125,6 +125,7 @@
 * [214. Shortest Palindrome](string/214.-shortest-palindrome.md)
 * [67. Add Binary](string/67.-add-binary.md)
 * [43. Multiply Strings](string/43.-multiply-strings.md)
+* [271. Encode and Decode Strings](string/271.-encode-and-decode-strings.md)
 
 ## Design
 
