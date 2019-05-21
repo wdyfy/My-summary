@@ -131,6 +131,7 @@
 * [20. Valid Parentheses](string/20.-valid-parentheses.md)
 * [14. Longest Common Prefix](string/14.-longest-common-prefix.md)
 * [49. Group Anagrams](string/49.-group-anagrams.md)
+* [58. Length of Last Word](string/58.-length-of-last-word.md)
 
 ## Design
 
