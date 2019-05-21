@@ -6,6 +6,7 @@
 | 0003 | [  Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Java](https://github.com/wdyfy/My-summary/blob/master/string/3.-longest-substring-without-repeating-characters.md) | 3 | Medium | `String` |
 | 0005 | [ Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/5.-longest-palindromic-substring.md) | 2 | Medium | `DP` |
 | 0010 | [ Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/10.-regular-expression-matching.md) | 1 | Hard | `DP` |
+| 0020 | [ Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Java](https://github.com/wdyfy/My-summary/blob/master/string/20.-valid-parentheses.md) | 3 | Easy | `String` |
 | 0031 | [ Next Permutation](https://leetcode.com/problems/next-permutation/) | [Java](https://github.com/wdyfy/My-summary/blob/master/string/31.-next-permutation.md) | 1 | Medium | `String` |
 | 0042 | [ Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Java](https://github.com/wdyfy/My-summary/blob/master/monotone-stack/42.trapping-rain-water.md) | 1 | Hard | `Monotone Stack` |
 | 0043 | [ Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [Java](https://github.com/wdyfy/My-summary/blob/master/string/43.-multiply-strings.md) | 1 | Medium | `String` |
@@ -48,6 +49,7 @@
 | 0304 | [  Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/304.-range-sum-query-2d-immutable.md) | 1 | Medimu | `DP` |
 | 0312 | [  Burst Balloons](https://leetcode.com/problems/burst-balloons/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/312.-burst-balloons.md) | 1 | Hard | `DP` |
 | 0316 | [  Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) | [Java](https://github.com/wdyfy/My-summary/blob/master/monotone-stack/316.-remove-duplicate-letters.md) | 1 | Hard | `Monotone Stack` |
+| 0320 | [  Generalized Abbreviation$](##) | [Java](https://github.com/wdyfy/My-summary/blob/master/monotone-stack/316.-remove-duplicate-letters.md) | 1 | Medium | `DFS` |
 | 0322 | [  Coin Change](https://leetcode.com/problems/coin-change/submissions/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/322.-coin-change.md) | 1 | Medimu | `DP` |
 | 0351 | [  Android Unlock Patterns$](./) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/351.-android-unlock-patterns.md) | 1 | Medimu | `DP` |
 | 0357 | [  Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/357.-count-numbers-with-unique-digits.md) | 1 | Medimu | `DP` |
