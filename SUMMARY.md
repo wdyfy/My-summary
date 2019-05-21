@@ -128,6 +128,7 @@
 * [43. Multiply Strings](string/43.-multiply-strings.md)
 * [271. Encode and Decode Strings](string/271.-encode-and-decode-strings.md)
 * [288. Unique Word Abbreviation](string/288.-unique-word-abbreviation.md)
+* [20. Valid Parentheses](string/20.-valid-parentheses.md)
 
 ## Design
 
