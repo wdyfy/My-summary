@@ -129,6 +129,7 @@
 * [271. Encode and Decode Strings](string/271.-encode-and-decode-strings.md)
 * [288. Unique Word Abbreviation](string/288.-unique-word-abbreviation.md)
 * [20. Valid Parentheses](string/20.-valid-parentheses.md)
+* [14. Longest Common Prefix](string/14.-longest-common-prefix.md)
 
 ## Design
 
