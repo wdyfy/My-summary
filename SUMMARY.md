@@ -144,6 +144,7 @@
 ## Stack
 
 * [1047. Remove All Adjacent Duplicates In String](stack/1047.-remove-all-adjacent-duplicates-in-string.md)
+* [394. Decode String](stack/394.-decode-string.md)
 
 ## 常用算法
 
