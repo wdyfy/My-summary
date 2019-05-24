@@ -154,3 +154,7 @@
 
 * [2. Add Two Numbers](list/2.-add-two-numbers.md)
 
+## LintCode
+
+* [627. Longest Palindrome](lintcode/627.-longest-palindrome.md)
+
