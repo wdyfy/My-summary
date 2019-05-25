@@ -132,6 +132,7 @@
 * [14. Longest Common Prefix](string/14.-longest-common-prefix.md)
 * [49. Group Anagrams](string/49.-group-anagrams.md)
 * [58. Length of Last Word](string/58.-length-of-last-word.md)
+* [393. UTF-8 Validation](string/393.-utf-8-validation.md)
 
 ## Design
 
