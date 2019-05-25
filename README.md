@@ -61,6 +61,7 @@
 | 0363 | [  Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/363.-max-sum-of-rectangle-no-larger-than-k.md) | 1 | Hard | `DP` |
 | 0375 | [  Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | [Java](https://github.com/wdyfy/My-summary/blob/master/binary-search/374.-guess-number-higher-or-lower.md) | 1 | Easy | `BS` |
 | 0377 | [  Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/377.-combination-sum-iv.md) | 1 | Medimu | `DP` |
+| 0393 | [  UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/) | [Java](https://github.com/wdyfy/My-summary/blob/master/string/393.-utf-8-validation.md) | 1 | Medimu | `String` |
 | 0416 | [  Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/377.-combination-sum-iv.md) | 1 | Medimu | `DP` |
 | 0421 | [ Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/416.-partition-equal-subset-sum.md) | 1 | Medium | `DP` |
 | 0494 | [ Target Sum](https://leetcode.com/problems/target-sum/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/494.-target-sum.md) | 1 | Medium | `DP` |
