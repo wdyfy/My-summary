@@ -166,4 +166,5 @@
 * [627. Longest Palindrome](lintcode/627.-longest-palindrome.md)
 * [242. Convert Binary Tree to Linked Lists by Depth](lintcode/242.-convert-binary-tree-to-linked-lists-by-depth.md)
 * [137. Clone Graph](lintcode/137.-clone-graph.md)
+* [594. strStr II](lintcode/594.-strstr-ii.md)
 
