@@ -20,6 +20,12 @@
 ## BFS
 
 * [126. Word Ladder II](bfs/126.-word-ladder-ii.md)
+* [297. Serialize and Deserialize Binary Tree](bfs/297.-serialize-and-deserialize-binary-tree.md)
+* [102. Binary Tree Level Order Traversal](bfs/102.-binary-tree-level-order-traversal.md)
+* [107. Binary Tree Level Order Traversal II](bfs/untitled-2.md)
+* [103. Binary Tree Zigzag Level Order Traversal](bfs/untitled-3.md)
+* [127. Word Ladder](bfs/untitled-4.md)
+* [133. Clone Graph](bfs/133.-clone-graph.md)
 
 ## Dynamic Programming
 
@@ -158,4 +164,6 @@
 ## LintCode
 
 * [627. Longest Palindrome](lintcode/627.-longest-palindrome.md)
+* [242. Convert Binary Tree to Linked Lists by Depth](lintcode/242.-convert-binary-tree-to-linked-lists-by-depth.md)
+* [137. Clone Graph](lintcode/137.-clone-graph.md)
 
