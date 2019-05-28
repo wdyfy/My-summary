@@ -28,6 +28,7 @@
 * [103. Binary Tree Zigzag Level Order Traversal](bfs/103.-binary-tree-zigzag-level-order-traversal.md)
 * [127. Word Ladder](bfs/127.-word-ladder.md)
 * [210. Course Schedule II](bfs/210.-course-schedule-ii.md)
+* [269. Alien Dictionary](bfs/269.-alien-dictionary.md)
 
 ## Dynamic Programming
 
