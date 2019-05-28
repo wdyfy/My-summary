@@ -29,6 +29,7 @@
 * [127. Word Ladder](bfs/127.-word-ladder.md)
 * [210. Course Schedule II](bfs/210.-course-schedule-ii.md)
 * [269. Alien Dictionary](bfs/269.-alien-dictionary.md)
+* [200. Number of Islands](bfs/200.-number-of-islands.md)
 
 ## Dynamic Programming
 
