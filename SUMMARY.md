@@ -26,6 +26,7 @@
 * [103. Binary Tree Zigzag Level Order Traversal](bfs/untitled-3.md)
 * [127. Word Ladder](bfs/untitled-4.md)
 * [133. Clone Graph](bfs/133.-clone-graph.md)
+* [207. Course Schedule](bfs/207.-course-schedule.md)
 
 ## Dynamic Programming
 
@@ -168,4 +169,5 @@
 * [137. Clone Graph](lintcode/137.-clone-graph.md)
 * [594. strStr II](lintcode/594.-strstr-ii.md)
 * [611. Knight Shortest Path](lintcode/611.-knight-shortest-path.md)
+* [127. Topological Sorting](lintcode/127.-topological-sorting.md)
 
