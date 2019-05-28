@@ -55,7 +55,7 @@
 | 0271 | [  Encode and Decode Strings$](./##) | [Java](https://github.com/wdyfy/My-summary/blob/master/string/271.-encode-and-decode-strings.md) | 1 | Medium | `String` |
 | 0276 | [  Paint Fence$](./##) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/276.-paint-fence.md) | 1 | Easy | `DP` |
 | 0288 | [  Unique Word Abbreviation$](./##) | [Java](https://github.com/wdyfy/My-summary/blob/master/string/288.-unique-word-abbreviation.md) | 1 | Medium | `String` |
-| 0297 | \[  Serialize and Deserialize Binary Tree\]\([https://leetcode.com/problems/serialize-and-deserialize-binary-tree/](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [Java](https://github.com/wdyfy/My-summary/blob/master/bfs/297.-serialize-and-deserialize-binary-tree.md) | 1 | Hard | `BFS` |
+| 0297 | [  Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree)| [Java](https://github.com/wdyfy/My-summary/blob/master/bfs/297.-serialize-and-deserialize-binary-tree.md) | 1 | Hard | `BFS` |
 | 0300 | [  Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/300.-longest-increasing-subsequence.md) | 1 | Medimu | `DP` |
 | 0304 | [  Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/304.-range-sum-query-2d-immutable.md) | 1 | Medimu | `DP` |
 | 0312 | [  Burst Balloons](https://leetcode.com/problems/burst-balloons/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/312.-burst-balloons.md) | 1 | Hard | `DP` |
