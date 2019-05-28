@@ -42,6 +42,7 @@
 | 0189 | [ Rotate Array](./) | [Java](https://github.com/wdyfy/My-summary/blob/master/string/186.-reverse-words-in-a-string-ii.md) | 1 | Medium | `String` |
 | 0207 | [ Course Schedule](https://leetcode.com/problems/course-schedule/) | [Java](https://github.com/wdyfy/My-summary/blob/master/bfs/207.-course-schedule.md) | 1 | Medium | `BFS`,`TS` |
 | 0208 | [ Implement Trie \(Prefix Tree\)](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) | [Java](https://github.com/wdyfy/My-summary/blob/master/trie/208.-implement-trie-prefix-tree.md) | 2 | Medium | `Trie` |
+| 0210 | [ Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [Java](https://github.com/wdyfy/My-summary/blob/master/bfs/210.-course-schedule-ii.md) | 1 | Medium | `BFS`,`TS` |
 | 0211 | [  Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/) | [Java](https://github.com/wdyfy/My-summary/blob/master/trie/211.-add-and-search-word-data-structure-design.md) | 1 | Medium | `Trie` |
 | 0212 | [  Word Search II](https://leetcode.com/problems/word-search-ii/) | [Java](https://github.com/wdyfy/My-summary/blob/master/trie/212.-word-search-ii.md) | 1 | Hard | `Trie` |
 | 0214 | [  Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/) | [Java](https://github.com/wdyfy/My-summary/blob/master/string/214.-shortest-palindrome.md) | 1 | Hard | `String KMP` |
