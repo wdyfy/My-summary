@@ -74,7 +74,7 @@
 | 0393 | [  UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/) | [Java](https://github.com/wdyfy/My-summary/blob/master/string/393.-utf-8-validation.md) | 1 | Medimu | `String` |
 | 0416 | [  Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/377.-combination-sum-iv.md) | 1 | Medimu | `DP` |
 | 0421 | [ Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/416.-partition-equal-subset-sum.md) | 1 | Medium | `DP` |
-| 0444 | [ Sequence Reconstruction $](##) | [Java](https://github.com/wdyfy/My-summary/blob/master/bfs/444.-sequence-reconstruction.md | 1 | Medium | `BFS`,`TS` |
+| 0444 | [ Sequence Reconstruction $](##) | [Java](https://github.com/wdyfy/My-summary/blob/master/bfs/444.-sequence-reconstruction.md) | 1 | Medium | `BFS`,`TS` |
 | 0494 | [ Target Sum](https://leetcode.com/problems/target-sum/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/494.-target-sum.md) | 1 | Medium | `DP` |
 | 0496 | [ Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [Java](https://github.com/wdyfy/My-summary/blob/master/monotone-stack/496.-next-greater-element-i.md) | 1 | Easy | `Monotone Stack` |
 | 0503 | [ Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | [Java](https://github.com/wdyfy/My-summary/blob/master/monotone-stack/503.-next-greater-element-ii.md) | 2 | Medium | `Monotone Stack` |
