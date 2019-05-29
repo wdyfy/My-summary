@@ -175,4 +175,5 @@
 * [594. strStr II](lintcode/594.-strstr-ii.md)
 * [611. Knight Shortest Path](lintcode/611.-knight-shortest-path.md)
 * [127. Topological Sorting](lintcode/127.-topological-sorting.md)
+* [618. Search Graph Nodes\(BFS\)](lintcode/618.-search-graph-nodes-bfs.md)
 

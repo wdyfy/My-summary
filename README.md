@@ -48,6 +48,7 @@
 | 0214 | [  Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/) | [Java](https://github.com/wdyfy/My-summary/blob/master/string/214.-shortest-palindrome.md) | 1 | Hard | `String KMP` |
 | 0221 | [  Maximal Square](https://leetcode.com/problems/maximal-square/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/221.-maximal-square.md) | 1 | Medimu | `DP` |
 | 0256 | [  Paint House$](./##) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/256.-paint-house.md) | 1 | Easy | `DP` |
+| 0261 | [  Graph Valid Tree$](./##) | [Java](https://github.com/wdyfy/My-summary/blob/master/bfs/261.-graph-valid-tree.md) | 1 | Medium | `BFS` |
 | 0263 | [  Ugly Number](https://leetcode.com/problems/ugly-number/) | [Java](https://github.com/wdyfy/My-summary/blob/master/math/263.-ugly-number.md) | 1 | Easy | `Math` |
 | 0264 | [  Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/264.-ugly-number-ii.md) | 1 | Medium | `DP` |
 | 0265 | [  Paint House II$](./##) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/265.-paint-house-ii.md) | 1 | Hard | `DP` |
@@ -73,6 +74,7 @@
 | 0393 | [  UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/) | [Java](https://github.com/wdyfy/My-summary/blob/master/string/393.-utf-8-validation.md) | 1 | Medimu | `String` |
 | 0416 | [  Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/377.-combination-sum-iv.md) | 1 | Medimu | `DP` |
 | 0421 | [ Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/416.-partition-equal-subset-sum.md) | 1 | Medium | `DP` |
+| 0444 | [ Sequence Reconstruction $](./##) | [Java](https://github.com/wdyfy/My-summary/blob/master/bfs/444.-sequence-reconstruction.md) | 1 | Medium | `BFS`,`TS` |
 | 0494 | [ Target Sum](https://leetcode.com/problems/target-sum/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/494.-target-sum.md) | 1 | Medium | `DP` |
 | 0496 | [ Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [Java](https://github.com/wdyfy/My-summary/blob/master/monotone-stack/496.-next-greater-element-i.md) | 1 | Easy | `Monotone Stack` |
 | 0503 | [ Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | [Java](https://github.com/wdyfy/My-summary/blob/master/monotone-stack/503.-next-greater-element-ii.md) | 2 | Medium | `Monotone Stack` |
