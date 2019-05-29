@@ -30,6 +30,7 @@
 * [210. Course Schedule II](bfs/210.-course-schedule-ii.md)
 * [269. Alien Dictionary](bfs/269.-alien-dictionary.md)
 * [200. Number of Islands](bfs/200.-number-of-islands.md)
+* [444. Sequence Reconstruction](bfs/444.-sequence-reconstruction.md)
 
 ## Dynamic Programming
 
