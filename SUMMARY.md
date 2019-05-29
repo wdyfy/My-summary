@@ -31,6 +31,7 @@
 * [269. Alien Dictionary](bfs/269.-alien-dictionary.md)
 * [200. Number of Islands](bfs/200.-number-of-islands.md)
 * [444. Sequence Reconstruction](bfs/444.-sequence-reconstruction.md)
+* [261. Graph Valid Tree](bfs/261.-graph-valid-tree.md)
 
 ## Dynamic Programming
 
