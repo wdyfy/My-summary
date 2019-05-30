@@ -24,7 +24,7 @@ Output: [1,2,3,4]
 2. Length of the given array is positive and will not exceed 104
 3. Absolute value of elements in the array and x will not exceed 104
 
-这里输出要按顺序，所以可以记录arr里的距离x 的位置，再把这个范围里的数按照顺序加入到res里，这样可以保证题目要求的顺序。
+这里输出要按顺序，所以可以记录arr里的距离x 的位置，再把这个范围里的数按照顺序加入到res里，这样可以保证题目要求的顺序。在binarySearch里返回的是第一个大于target的index。除此之外还要比较x-arr\[start\]和arr\[end\]-x的大小。
 
 ```text
 class Solution {
