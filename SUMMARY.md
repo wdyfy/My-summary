@@ -15,7 +15,6 @@
 * [212. Word Search II](trie/212.-word-search-ii.md)
 * [648. Replace Words](trie/648.-replace-words.md)
 * [677. Map Sum Pairs](trie/677.-map-sum-pairs.md)
-* [u](trie/139.-word-break.md)
 
 ## BFS
 
@@ -177,4 +176,9 @@
 * [127. Topological Sorting](lintcode/127.-topological-sorting.md)
 * [618. Search Graph Nodes\(BFS\)](lintcode/618.-search-graph-nodes-bfs.md)
 * [431. Connected Component in Undirected Graph](lintcode/431.-connected-component-in-undirected-graph.md)
+
+## Binary Search
+
+* [704. Binary Search](binary-search-1/704.-binary-search.md)
+* [34. Find First and Last Position of Element in Sorted Array](binary-search-1/34.-find-first-and-last-position-of-element-in-sorted-array.md)
 
