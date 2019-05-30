@@ -176,9 +176,11 @@
 * [127. Topological Sorting](lintcode/127.-topological-sorting.md)
 * [618. Search Graph Nodes\(BFS\)](lintcode/618.-search-graph-nodes-bfs.md)
 * [431. Connected Component in Undirected Graph](lintcode/431.-connected-component-in-undirected-graph.md)
+* [447. Search in a Big Sorted Array](lintcode/447.-search-in-a-big-sorted-array.md)
 
 ## Binary Search
 
 * [704. Binary Search](binary-search-1/704.-binary-search.md)
 * [34. Find First and Last Position of Element in Sorted Array](binary-search-1/34.-find-first-and-last-position-of-element-in-sorted-array.md)
+* [Untitled](binary-search-1/untitled.md)
 
