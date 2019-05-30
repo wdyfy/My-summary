@@ -88,6 +88,7 @@
 | 0704 | [ Binary Search](https://leetcode.com/problems/binary-search/) | [Java](https://github.com/wdyfy/My-summary/blob/master/binary-search-1/704.-binary-search.md) | 1 | Easy | `BS` |
 | 0720 | [ Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/) | [Java](https://github.com/wdyfy/My-summary/blob/master/trie/720.-longest-word-in-dictionary.md) | 1 | Easy | `Trie` |
 | 0739 | [ Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [Java](https://github.com/wdyfy/My-summary/blob/master/monotone-stack/739.-daily-temperatures.md) | 2 | Medium | `Monotone Stack` |
+| 0852 | [ Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | [Java](https://github.com/wdyfy/My-summary/blob/master/binary-search-1/852.-peak-index-in-a-mountain-array.md) | 1 | Easy | `BS` |
 | 0931 | [ Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/931.-minimum-falling-path-sum.md) | 1 | Medium | `DP` |
 | 1019 | [ Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/) | [Java](https://github.com/wdyfy/My-summary/blob/master/monotone-stack/1019.-next-greater-node-in-linked-list.md) | 2 | Medium | `Monotone Stack` |
 | 1023 | [ Camelcase Matching](https://leetcode.com/problems/camelcase-matching/) | [Java](https://github.com/wdyfy/My-summary/blob/master/trie/1023.-camelcase-matching.md) | 1 | Medium | `Trie`,`Two Pointers` |
