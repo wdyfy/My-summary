@@ -182,5 +182,5 @@
 
 * [704. Binary Search](binary-search-1/704.-binary-search.md)
 * [34. Find First and Last Position of Element in Sorted Array](binary-search-1/34.-find-first-and-last-position-of-element-in-sorted-array.md)
-* [Untitled](binary-search-1/untitled.md)
+* [658. Find K Closest Elements](binary-search-1/untitled.md)
 
