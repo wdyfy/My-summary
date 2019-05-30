@@ -9,6 +9,7 @@
 | 0014 | [  Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Java](https://github.com/wdyfy/My-summary/blob/master/string/14.-longest-common-prefix.md) | 1 | Easy | `String` |
 | 0020 | [ Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Java](https://github.com/wdyfy/My-summary/blob/master/string/20.-valid-parentheses.md) | 3 | Easy | `String` |
 | 0031 | [ Next Permutation](https://leetcode.com/problems/next-permutation/) | [Java](https://github.com/wdyfy/My-summary/blob/master/string/31.-next-permutation.md) | 1 | Medium | `String` |
+| 0034 | [ Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Java](https://github.com/wdyfy/My-summary/blob/master/binary-search-1/34.-find-first-and-last-position-of-element-in-sorted-array.md) | 1 | Medium | `BS` |
 | 0042 | [ Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Java](https://github.com/wdyfy/My-summary/blob/master/monotone-stack/42.trapping-rain-water.md) | 1 | Hard | `Monotone Stack` |
 | 0043 | [ Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [Java](https://github.com/wdyfy/My-summary/blob/master/string/43.-multiply-strings.md) | 1 | Medium | `String` |
 | 0044 | [ Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/44.-wildcard-matching.md) | 1 | Hard | `DP` |
@@ -80,9 +81,11 @@
 | 0503 | [ Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | [Java](https://github.com/wdyfy/My-summary/blob/master/monotone-stack/503.-next-greater-element-ii.md) | 2 | Medium | `Monotone Stack` |
 | 0551 | [ Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [Java](https://github.com/wdyfy/My-summary/blob/master/string/557.-reverse-words-in-a-string-iii.md) | 1 | Easy | `String` |
 | 0648 | [ Replace Words](https://leetcode.com/problems/replace-words/) | [Java](https://github.com/wdyfy/My-summary/blob/master/trie/648.-replace-words.md) | 1 | Medium | `Trie` |
+| 0658 | [ Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/) | [Java](https://github.com/wdyfy/My-summary/blob/master/binary-search-1/untitled.md) | 1 | Medium | `BS` |
 | 0676 | [ Implement Magic Dictionary](https://leetcode.com/problems/implement-magic-dictionary/) | [Java](https://github.com/wdyfy/My-summary/blob/master/trie/676.-implement-magic-dictionary.md) | 1 | Medium | `Trie` |
 | 0677 | [ Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/) | [Java](https://github.com/wdyfy/My-summary/blob/master/trie/677.-map-sum-pairs.md) | 1 | Medium | `Trie` |
 | 0692 | [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | [Java](https://github.com/wdyfy/My-summary/blob/master/trie/692.-top-k-frequent-words.md) | 1 | Medium | `Trie` |
+| 0704 | [ Binary Search](https://leetcode.com/problems/binary-search/) | [Java](https://github.com/wdyfy/My-summary/blob/master/binary-search-1/704.-binary-search.md) | 1 | Easy | `BS` |
 | 0720 | [ Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/) | [Java](https://github.com/wdyfy/My-summary/blob/master/trie/720.-longest-word-in-dictionary.md) | 1 | Easy | `Trie` |
 | 0739 | [ Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [Java](https://github.com/wdyfy/My-summary/blob/master/monotone-stack/739.-daily-temperatures.md) | 2 | Medium | `Monotone Stack` |
 | 0931 | [ Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/931.-minimum-falling-path-sum.md) | 1 | Medium | `DP` |
