@@ -186,4 +186,5 @@
 * [4. Median of Two Sorted Arrays](binary-search-1/4.-median-of-two-sorted-arrays.md)
 * [74. Search a 2D Matrix](binary-search-1/74.-search-a-2d-matrix.md)
 * [240. Search a 2D Matrix II](binary-search-1/240.-search-a-2d-matrix-ii.md)
+* [33. Search in Rotated Sorted Array](binary-search-1/33.-search-in-rotated-sorted-array.md)
 
