@@ -188,4 +188,5 @@
 * [240. Search a 2D Matrix II](binary-search-1/240.-search-a-2d-matrix-ii.md)
 * [33. Search in Rotated Sorted Array](binary-search-1/33.-search-in-rotated-sorted-array.md)
 * [81. Search in Rotated Sorted Array II](binary-search-1/81.-search-in-rotated-sorted-array-ii.md)
+* [50. Pow\(x, n\)](binary-search-1/50.-pow-x-n.md)
 
