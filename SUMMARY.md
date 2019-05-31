@@ -111,10 +111,6 @@
 * [263. Ugly Number](math/263.-ugly-number.md)
 * [1037. Valid Boomerang](math/1037.-valid-boomerang.md)
 
-## Binary Search
-
-* [374. Guess Number Higher or Lower](binary-search/374.-guess-number-higher-or-lower.md)
-
 ## Tree
 
 * [1038. Binary Search Tree to Greater Sum Tree](tree/1038.-binary-search-tree-to-greater-sum-tree.md)
@@ -182,7 +178,9 @@
 
 * [704. Binary Search](binary-search-1/704.-binary-search.md)
 * [34. Find First and Last Position of Element in Sorted Array](binary-search-1/34.-find-first-and-last-position-of-element-in-sorted-array.md)
-* [658. Find K Closest Elements](binary-search-1/untitled.md)
+* [658. Find K Closest Elements](binary-search-1/658.-find-k-closest-elements.md)
 * [852. Peak Index in a Mountain Array](binary-search-1/852.-peak-index-in-a-mountain-array.md)
 * [153. Find Minimum in Rotated Sorted Array](binary-search-1/153.-find-minimum-in-rotated-sorted-array.md)
+* [374. Guess Number Higher or Lower](binary-search-1/374.-guess-number-higher-or-lower.md)
+* [162. Find Peak Element](binary-search-1/162.-find-peak-element.md)
 
