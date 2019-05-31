@@ -184,4 +184,5 @@
 * [374. Guess Number Higher or Lower](binary-search-1/374.-guess-number-higher-or-lower.md)
 * [162. Find Peak Element](binary-search-1/162.-find-peak-element.md)
 * [4. Median of Two Sorted Arrays](binary-search-1/4.-median-of-two-sorted-arrays.md)
+* [74. Search a 2D Matrix](binary-search-1/74.-search-a-2d-matrix.md)
 
