@@ -16,7 +16,7 @@
 | 0043 | [ Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [Java](https://github.com/wdyfy/My-summary/blob/master/string/43.-multiply-strings.md) | 1 | Medium | `String` |
 | 0044 | [ Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/44.-wildcard-matching.md) | 1 | Hard | `DP` |
 | 0049 | [ Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Java](https://github.com/wdyfy/My-summary/blob/master/string/49.-group-anagrams.md) | 1 | Medium | `String` |
-| 0050 | [ Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Java](https://github.com/wdyfy/My-summary/blob/master/binary-search-1/50.-pow-x-n.md) | 1 | Medium | `BS` |
+| 0050 | [ Pow\(x, n\)](https://leetcode.com/problems/powx-n/) | [Java](https://github.com/wdyfy/My-summary/blob/master/binary-search-1/50.-pow-x-n.md) | 1 | Medium | `BS` |
 | 0053 | [ Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/53.-maximum-subarray.md) | 1 | Easy | `DP` |
 | 0058 | [ Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Java](https://github.com/wdyfy/My-summary/blob/master/string/58.-length-of-last-word.md) | 1 | Easy | `String` |
 | 0062 | [ Unique Paths](https://leetcode.com/problems/unique-paths/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/62.-unique-paths.md) | 3 | Medium | `DP` |
