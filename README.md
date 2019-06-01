@@ -24,7 +24,7 @@
 | 0064 | [ Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/64.-minimum-path-sum.md) | 2 | Medium | `DP` |
 | 0067 | [  Add Binary](https://leetcode.com/problems/add-binary/) | [Java](https://github.com/wdyfy/My-summary/blob/master/string/67.-add-binary.md) | 2 | Easy | `String` |
 | 0072 | [ Edit Distance](https://leetcode.com/problems/edit-distance/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/72.-edit-distance.md) | 2 | Medium | `DP` |
-| 0074 | [ Search a 2D Matrix]https://leetcode.com/problems/search-a-2d-matrix/) | [Java](https://github.com/wdyfy/My-summary/blob/master/binary-search-1/74.-search-a-2d-matrix.md) | 1 | Medium | `BS` |
+| 0074 | [ Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Java](https://github.com/wdyfy/My-summary/blob/master/binary-search-1/74.-search-a-2d-matrix.md) | 1 | Medium | `BS` |
 | 0081 | [ Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [Java](https://github.com/wdyfy/My-summary/blob/master/binary-search-1/81.-search-in-rotated-sorted-array-ii.md) | 1 | Medium | `BS` |
 | 0084 | [ Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [Java](https://github.com/wdyfy/My-summary/blob/master/monotone-stack/84.-largest-rectangle-in-histogram.md) | 2 | Hard | `Monotone Stack` |
 | 0085 | [ Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | [Java](https://github.com/wdyfy/My-summary/blob/master/monotone-stack/85.-maximal-rectangle.md) | 2 | Hard | `Monotone Stack` |
