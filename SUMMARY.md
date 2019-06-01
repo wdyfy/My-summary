@@ -190,4 +190,5 @@
 * [33. Search in Rotated Sorted Array](binary-search/33.-search-in-rotated-sorted-array.md)
 * [81. Search in Rotated Sorted Array II](binary-search/81.-search-in-rotated-sorted-array-ii.md)
 * [50. Pow\(x, n\)](binary-search/50.-pow-x-n.md)
+* [372. Super Pow](binary-search/372.-super-pow.md)
 
