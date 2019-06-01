@@ -192,4 +192,5 @@
 * [50. Pow\(x, n\)](binary-search/50.-pow-x-n.md)
 * [372. Super Pow](binary-search/372.-super-pow.md)
 * [367. Valid Perfect Square](binary-search/367.-valid-perfect-square.md)
+* [278. First Bad Version](binary-search/278.-first-bad-version.md)
 
