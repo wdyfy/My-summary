@@ -4,16 +4,19 @@
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 0002 | [  Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Java](https://github.com/wdyfy/My-summary/blob/master/list/2.-add-two-numbers.md) | 3 | Medium | `List` |
 | 0003 | [  Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Java](https://github.com/wdyfy/My-summary/blob/master/string/3.-longest-substring-without-repeating-characters.md) | 3 | Medium | `String` |
+| 0004 | [  Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Java](https://github.com/wdyfy/My-summary/blob/master/binary-search-1/4.-median-of-two-sorted-arrays.md) | 1 | Hard | `BS` |
 | 0005 | [ Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/5.-longest-palindromic-substring.md) | 2 | Medium | `DP` |
 | 0010 | [ Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/10.-regular-expression-matching.md) | 1 | Hard | `DP` |
 | 0014 | [  Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Java](https://github.com/wdyfy/My-summary/blob/master/string/14.-longest-common-prefix.md) | 1 | Easy | `String` |
 | 0020 | [ Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Java](https://github.com/wdyfy/My-summary/blob/master/string/20.-valid-parentheses.md) | 3 | Easy | `String` |
 | 0031 | [ Next Permutation](https://leetcode.com/problems/next-permutation/) | [Java](https://github.com/wdyfy/My-summary/blob/master/string/31.-next-permutation.md) | 1 | Medium | `String` |
+| 0033 | [ Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Java](https://github.com/wdyfy/My-summary/blob/master/binary-search-1/33.-search-in-rotated-sorted-array.md) | 1 | Medium | `BS` |
 | 0034 | [ Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Java](https://github.com/wdyfy/My-summary/blob/master/binary-search-1/34.-find-first-and-last-position-of-element-in-sorted-array.md) | 1 | Medium | `BS` |
 | 0042 | [ Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Java](https://github.com/wdyfy/My-summary/blob/master/monotone-stack/42.trapping-rain-water.md) | 1 | Hard | `Monotone Stack` |
 | 0043 | [ Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [Java](https://github.com/wdyfy/My-summary/blob/master/string/43.-multiply-strings.md) | 1 | Medium | `String` |
 | 0044 | [ Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/44.-wildcard-matching.md) | 1 | Hard | `DP` |
 | 0049 | [ Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Java](https://github.com/wdyfy/My-summary/blob/master/string/49.-group-anagrams.md) | 1 | Medium | `String` |
+| 0050 | [ Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Java](https://github.com/wdyfy/My-summary/blob/master/binary-search-1/50.-pow-x-n.md) | 1 | Medium | `BS` |
 | 0053 | [ Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/53.-maximum-subarray.md) | 1 | Easy | `DP` |
 | 0058 | [ Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Java](https://github.com/wdyfy/My-summary/blob/master/string/58.-length-of-last-word.md) | 1 | Easy | `String` |
 | 0062 | [ Unique Paths](https://leetcode.com/problems/unique-paths/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/62.-unique-paths.md) | 3 | Medium | `DP` |
@@ -21,6 +24,8 @@
 | 0064 | [ Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/64.-minimum-path-sum.md) | 2 | Medium | `DP` |
 | 0067 | [  Add Binary](https://leetcode.com/problems/add-binary/) | [Java](https://github.com/wdyfy/My-summary/blob/master/string/67.-add-binary.md) | 2 | Easy | `String` |
 | 0072 | [ Edit Distance](https://leetcode.com/problems/edit-distance/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/72.-edit-distance.md) | 2 | Medium | `DP` |
+| 0074 | [ Search a 2D Matrix]https://leetcode.com/problems/search-a-2d-matrix/) | [Java](https://github.com/wdyfy/My-summary/blob/master/binary-search-1/74.-search-a-2d-matrix.md) | 1 | Medium | `BS` |
+| 0081 | [ Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [Java](https://github.com/wdyfy/My-summary/blob/master/binary-search-1/81.-search-in-rotated-sorted-array-ii.md) | 1 | Medium | `BS` |
 | 0084 | [ Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [Java](https://github.com/wdyfy/My-summary/blob/master/monotone-stack/84.-largest-rectangle-in-histogram.md) | 2 | Hard | `Monotone Stack` |
 | 0085 | [ Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | [Java](https://github.com/wdyfy/My-summary/blob/master/monotone-stack/85.-maximal-rectangle.md) | 2 | Hard | `Monotone Stack` |
 | 0087 | [ Scramble String](https://leetcode.com/problems/scramble-string/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/87.-scramble-string.md) | 1 | Hard | `DP` |
@@ -39,6 +44,7 @@
 | 0140 | [  Word Break II](https://leetcode.com/problems/word-break-ii/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dfs/%20140.%20Word%20Break%20II.md) | 1 | Hard | `DP`,`DFS` |
 | 0151 | [  Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Java](https://github.com/wdyfy/My-summary/blob/master/string/151.-reverse-words-in-a-string.md) | 1 | Medium | `String` |
 | 0153 | [  Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Java](https://github.com/wdyfy/My-summary/blob/master/binary-search-1/153.-find-minimum-in-rotated-sorted-array.md) | 1 | Medium | `BS` |
+| 0162 | [ Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [Java](https://github.com/wdyfy/My-summary/blob/master/binary-search-1/162.-find-peak-element.md) | 1 | Medium | `BS` |
 | 0174 | [ Dungeon Game](https://leetcode.com/problems/dungeon-game/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/174.-dungeon-game.md) | 1 | Hard | `DP` |
 | 0186 | [ Reverse Words in a String II$](https://leetcode.com/problems/rotate-array/) | [Java](https://github.com/wdyfy/My-summary/blob/master/string/189.-rotate-array.md) | 1 | Easy | `String` |
 | 0189 | [ Rotate Array](./) | [Java](https://github.com/wdyfy/My-summary/blob/master/string/186.-reverse-words-in-a-string-ii.md) | 1 | Medium | `String` |
@@ -49,6 +55,7 @@
 | 0212 | [  Word Search II](https://leetcode.com/problems/word-search-ii/) | [Java](https://github.com/wdyfy/My-summary/blob/master/trie/212.-word-search-ii.md) | 1 | Hard | `Trie` |
 | 0214 | [  Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/) | [Java](https://github.com/wdyfy/My-summary/blob/master/string/214.-shortest-palindrome.md) | 1 | Hard | `String KMP` |
 | 0221 | [  Maximal Square](https://leetcode.com/problems/maximal-square/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/221.-maximal-square.md) | 1 | Medimu | `DP` |
+| 0240 | [  Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [Java](https://github.com/wdyfy/My-summary/blob/master/binary-search-1/240.-search-a-2d-matrix-ii.md) | 1 | Medimu | `BS` |
 | 0256 | [  Paint House$](./##) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/256.-paint-house.md) | 1 | Easy | `DP` |
 | 0261 | [  Graph Valid Tree$](./##) | [Java](https://github.com/wdyfy/My-summary/blob/master/bfs/261.-graph-valid-tree.md) | 1 | Medium | `BFS` |
 | 0263 | [  Ugly Number](https://leetcode.com/problems/ugly-number/) | [Java](https://github.com/wdyfy/My-summary/blob/master/math/263.-ugly-number.md) | 1 | Easy | `Math` |
