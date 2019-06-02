@@ -195,4 +195,5 @@
 * [278. First Bad Version](binary-search/278.-first-bad-version.md)
 * [275. H-Index II](binary-search/275.-h-index-ii.md)
 * [270. Closest Binary Search Tree Value](binary-search/270.-closest-binary-search-tree-value.md)
+* [222. Count Complete Tree Nodes](binary-search/222.-count-complete-tree-nodes.md)
 
