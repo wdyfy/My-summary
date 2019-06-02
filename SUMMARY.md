@@ -194,4 +194,5 @@
 * [367. Valid Perfect Square](binary-search/367.-valid-perfect-square.md)
 * [278. First Bad Version](binary-search/278.-first-bad-version.md)
 * [275. H-Index II](binary-search/275.-h-index-ii.md)
+* [270. Closest Binary Search Tree Value](binary-search/270.-closest-binary-search-tree-value.md)
 
