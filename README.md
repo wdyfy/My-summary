@@ -68,6 +68,7 @@
 | 0271 | [  Encode and Decode Strings$](./##) | [Java](https://github.com/wdyfy/My-summary/blob/master/string/271.-encode-and-decode-strings.md) | 1 | Medium | `String` |
 | 0275 | [  H-Index II](https://leetcode.com/problems/h-index-ii/) | [Java](https://github.com/wdyfy/My-summary/blob/master/binary-search/275.-h-index-ii.md) | 1 | Medium | `BS` |
 | 0276 | [  Paint Fence$](./##) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/276.-paint-fence.md) | 1 | Easy | `DP` |
+| 0278 | [  First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Java](https://github.com/wdyfy/My-summary/blob/master/binary-search/278.-first-bad-version.md) | 1 | Easy | `BS` |
 | 0288 | [  Unique Word Abbreviation$](./##) | [Java](https://github.com/wdyfy/My-summary/blob/master/string/288.-unique-word-abbreviation.md) | 1 | Medium | `String` |
 | 0297 | [  Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree) | [Java](https://github.com/wdyfy/My-summary/blob/master/bfs/297.-serialize-and-deserialize-binary-tree.md) | 1 | Hard | `BFS` |
 | 0300 | [  Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/300.-longest-increasing-subsequence.md) | 1 | Medimu | `DP` |
@@ -81,6 +82,8 @@
 | 0359 | [  Logger Rate Limiter$](./) | [Java](https://github.com/wdyfy/My-summary/blob/master/design/359.-logger-rate-limiter.md) | 1 | Easy | `Design` |
 | 0361 | [  Bomb Enemy$](./) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/361.-bomb-enemy.md) | 1 | Medimu | `DP` |
 | 0363 | [  Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/363.-max-sum-of-rectangle-no-larger-than-k.md) | 1 | Hard | `DP` |
+| 0367 | [  Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | [Java](https://github.com/wdyfy/My-summary/blob/master/binary-search/367.-valid-perfect-square.md) | 1 | Easy | `BS` |
+| 0372 | [  Super Pow](https://leetcode.com/problems/super-pow/) | [Java](https://github.com/wdyfy/My-summary/blob/master/binary-search/372.-super-pow.md) | 1 | Medium | `BS` |
 | 0375 | [  Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | [Java](https://github.com/wdyfy/My-summary/blob/master/binary-search/374.-guess-number-higher-or-lower.md) | 1 | Easy | `BS` |
 | 0377 | [  Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/377.-combination-sum-iv.md) | 1 | Medimu | `DP` |
 | 0393 | [  UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/) | [Java](https://github.com/wdyfy/My-summary/blob/master/string/393.-utf-8-validation.md) | 1 | Medimu | `String` |
