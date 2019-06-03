@@ -115,6 +115,7 @@
 
 * [1038. Binary Search Tree to Greater Sum Tree](tree/1038.-binary-search-tree-to-greater-sum-tree.md)
 * [144. Binary Tree Preorder Traversal](tree/144.-binary-tree-preorder-traversal.md)
+* [257. Binary Tree Paths](tree/257.-binary-tree-paths.md)
 
 ## Sliding Windows
 
