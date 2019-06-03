@@ -116,6 +116,9 @@
 * [1038. Binary Search Tree to Greater Sum Tree](tree/1038.-binary-search-tree-to-greater-sum-tree.md)
 * [144. Binary Tree Preorder Traversal](tree/144.-binary-tree-preorder-traversal.md)
 * [257. Binary Tree Paths](tree/257.-binary-tree-paths.md)
+* [94. Binary Tree Inorder Traversal](tree/94.-binary-tree-inorder-traversal.md)
+* [145. Binary Tree Postorder Traversal](tree/145.-binary-tree-postorder-traversal.md)
+* [235. Lowest Common Ancestor of a Binary Search Tree](tree/235.-lowest-common-ancestor-of-a-binary-search-tree.md)
 
 ## Sliding Windows
 
