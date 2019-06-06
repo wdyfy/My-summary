@@ -126,6 +126,8 @@
 * [110. Balanced Binary Tree](tree/110.-balanced-binary-tree.md)
 * [510. Inorder Successor in BST II](tree/510.-inorder-successor-in-bst-ii.md)
 * [104. Maximum Depth of Binary Tree](tree/104.-maximum-depth-of-binary-tree.md)
+* [111. Minimum Depth of Binary Tree](tree/111.-minimum-depth-of-binary-tree.md)
+* [98. Validate Binary Search Tree](tree/98.-validate-binary-search-tree.md)
 
 ## Sliding Windows
 
