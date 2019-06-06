@@ -119,6 +119,13 @@
 * [94. Binary Tree Inorder Traversal](tree/94.-binary-tree-inorder-traversal.md)
 * [145. Binary Tree Postorder Traversal](tree/145.-binary-tree-postorder-traversal.md)
 * [235. Lowest Common Ancestor of a Binary Search Tree](tree/235.-lowest-common-ancestor-of-a-binary-search-tree.md)
+* [236. Lowest Common Ancestor of a Binary Tree](tree/236.-lowest-common-ancestor-of-a-binary-tree.md)
+* [114. Flatten Binary Tree to Linked List](tree/114.-flatten-binary-tree-to-linked-list.md)
+* [285. Inorder Successor in BST](tree/285.-inorder-successor-in-bst.md)
+* [314. Binary Tree Vertical Order Traversal](tree/314.-binary-tree-vertical-order-traversal.md)
+* [110. Balanced Binary Tree](tree/110.-balanced-binary-tree.md)
+* [510. Inorder Successor in BST II](tree/510.-inorder-successor-in-bst-ii.md)
+* [104. Maximum Depth of Binary Tree](tree/104.-maximum-depth-of-binary-tree.md)
 
 ## Sliding Windows
 
