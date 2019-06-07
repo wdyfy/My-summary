@@ -130,6 +130,7 @@
 * [98. Validate Binary Search Tree](tree/98.-validate-binary-search-tree.md)
 * [230. Kth Smallest Element in a BST](tree/230.-kth-smallest-element-in-a-bst.md)
 * [272. Closest Binary Search Tree Value II](tree/272.-closest-binary-search-tree-value-ii.md)
+* [173. Binary Search Tree Iterator](tree/173.-binary-search-tree-iterator.md)
 
 ## Sliding Windows
 
