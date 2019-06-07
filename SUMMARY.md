@@ -128,6 +128,7 @@
 * [104. Maximum Depth of Binary Tree](tree/104.-maximum-depth-of-binary-tree.md)
 * [111. Minimum Depth of Binary Tree](tree/111.-minimum-depth-of-binary-tree.md)
 * [98. Validate Binary Search Tree](tree/98.-validate-binary-search-tree.md)
+* [230. Kth Smallest Element in a BST](tree/230.-kth-smallest-element-in-a-bst.md)
 
 ## Sliding Windows
 
