@@ -188,6 +188,7 @@
 * [431. Connected Component in Undirected Graph](lintcode/431.-connected-component-in-undirected-graph.md)
 * [447. Search in a Big Sorted Array](lintcode/447.-search-in-a-big-sorted-array.md)
 * [140. Fast Power](lintcode/140.-fast-power.md)
+* [596. Minimum Subtree](lintcode/596.-minimum-subtree.md)
 
 ## Binary Search
 
