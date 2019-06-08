@@ -31,10 +31,13 @@
 | 0087 | [ Scramble String](https://leetcode.com/problems/scramble-string/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/87.-scramble-string.md) | 1 | Hard | `DP` |
 | 0094| [  Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Java](https://github.com/wdyfy/My-summary/blob/master/tree/94.-binary-tree-inorder-traversal.md) | 1 | Medium | `Tree` |
 | 0097 | [ Interleaving String](https://leetcode.com/problems/interleaving-string/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/97.-interleaving-string.md) | 1 | Hard | `DP` |
+| 0098 | [ Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Java](https://github.com/wdyfy/My-summary/blob/master/tree/98.-validate-binary-search-tree.md) | 1 | Medium | `Tree` |
 | 0102 | [ Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Java](https://github.com/wdyfy/My-summary/blob/master/bfs/102.-binary-tree-level-order-traversal.md) | 1 | Medium | `BFS`,`DFS` |
 | 0103 | [ Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [Java](https://github.com/wdyfy/My-summary/blob/master/bfs/untitled-3.md) | 1 | Medium | `BFS`,`DFS` |
+| 0104 | [ Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Java](https://github.com/wdyfy/My-summary/blob/master/tree/104.-maximum-depth-of-binary-tree.md) | 1 | Easy | `Tree` |
 | 0107 | [  Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | [Java](https://github.com/wdyfy/My-summary/blob/master/bfs/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II) | 1 | Medium | `BFS`,`DFS` |
 | 0110 | [ Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Java](https://github.com/wdyfy/My-summary/blob/master/tree/110.-balanced-binary-tree.md) | 1 | Easy | `Tree` |
+| 0111 | [ Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Java](https://github.com/wdyfy/My-summary/blob/master/tree/111.-minimum-depth-of-binary-tree.md) | 1 | Easy | `Tree` |
 | 0114 | [ Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [Java](https://github.com/wdyfy/My-summary/blob/master/tree/144.-binary-tree-preorder-traversal.md) | 1 | Medium | `Tree` |
 | 0115 | [ Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/115.-distinct-subsequences.md) | 1 | Hard | `DP` |
 | 0120 | [ Triangle](https://leetcode.com/problems/triangle/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/120.-triangle.md) | 1 | Medium | `DP` |
@@ -102,6 +105,7 @@
 | 0494 | [ Target Sum](https://leetcode.com/problems/target-sum/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/494.-target-sum.md) | 1 | Medium | `DP` |
 | 0496 | [ Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [Java](https://github.com/wdyfy/My-summary/blob/master/monotone-stack/496.-next-greater-element-i.md) | 1 | Easy | `Monotone Stack` |
 | 0503 | [ Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | [Java](https://github.com/wdyfy/My-summary/blob/master/monotone-stack/503.-next-greater-element-ii.md) | 2 | Medium | `Monotone Stack` |
+| 0510 | [  Inorder Successor in BST II$](#) | [Java](https://github.com/wdyfy/My-summary/blob/master/tree/510.-inorder-successor-in-bst-ii.md) | 1 | Medium | `Tree` |
 | 0551 | [ Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [Java](https://github.com/wdyfy/My-summary/blob/master/string/557.-reverse-words-in-a-string-iii.md) | 1 | Easy | `String` |
 | 0648 | [ Replace Words](https://leetcode.com/problems/replace-words/) | [Java](https://github.com/wdyfy/My-summary/blob/master/trie/648.-replace-words.md) | 1 | Medium | `Trie` |
 | 0658 | [ Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/) | [Java](https://github.com/wdyfy/My-summary/blob/master/binary-search-1/untitled.md) | 1 | Medium | `BS` |
