@@ -131,6 +131,9 @@
 * [230. Kth Smallest Element in a BST](tree/230.-kth-smallest-element-in-a-bst.md)
 * [272. Closest Binary Search Tree Value II](tree/272.-closest-binary-search-tree-value-ii.md)
 * [173. Binary Search Tree Iterator](tree/173.-binary-search-tree-iterator.md)
+* [105. Construct Binary Tree from Preorder and Inorder Traversal](tree/105.-construct-binary-tree-from-preorder-and-inorder-traversal.md)
+* [106. Construct Binary Tree from Inorder and Postorder Traversal](tree/106.-construct-binary-tree-from-inorder-and-postorder-traversal.md)
+* [116. Populating Next Right Pointers in Each Node](tree/116.-populating-next-right-pointers-in-each-node.md)
 
 ## Sliding Windows
 
