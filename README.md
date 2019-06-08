@@ -29,7 +29,7 @@
 | 0084 | [ Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [Java](https://github.com/wdyfy/My-summary/blob/master/monotone-stack/84.-largest-rectangle-in-histogram.md) | 2 | Hard | `Monotone Stack` |
 | 0085 | [ Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | [Java](https://github.com/wdyfy/My-summary/blob/master/monotone-stack/85.-maximal-rectangle.md) | 2 | Hard | `Monotone Stack` |
 | 0087 | [ Scramble String](https://leetcode.com/problems/scramble-string/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/87.-scramble-string.md) | 1 | Hard | `DP` |
-| 0094| [  Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Java](https://github.com/wdyfy/My-summary/blob/master/tree/94.-binary-tree-inorder-traversal.md) | 1 | Medium | `Tree` |
+| 0094 | [  Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Java](https://github.com/wdyfy/My-summary/blob/master/tree/94.-binary-tree-inorder-traversal.md) | 1 | Medium | `Tree` |
 | 0097 | [ Interleaving String](https://leetcode.com/problems/interleaving-string/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/97.-interleaving-string.md) | 1 | Hard | `DP` |
 | 0098 | [ Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Java](https://github.com/wdyfy/My-summary/blob/master/tree/98.-validate-binary-search-tree.md) | 1 | Medium | `Tree` |
 | 0102 | [ Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Java](https://github.com/wdyfy/My-summary/blob/master/bfs/102.-binary-tree-level-order-traversal.md) | 1 | Medium | `BFS`,`DFS` |
@@ -40,7 +40,7 @@
 | 0107 | [  Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | [Java](https://github.com/wdyfy/My-summary/blob/master/bfs/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II) | 1 | Medium | `BFS`,`DFS` |
 | 0110 | [ Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Java](https://github.com/wdyfy/My-summary/blob/master/tree/110.-balanced-binary-tree.md) | 1 | Easy | `Tree` |
 | 0111 | [ Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Java](https://github.com/wdyfy/My-summary/blob/master/tree/111.-minimum-depth-of-binary-tree.md) | 1 | Easy | `Tree` |
-| 0113| [ Path Sum II](https://leetcode.com/problems/path-sum-ii/) | [Java](https://github.com/wdyfy/My-summary/blob/master/tree/144.-binary-tree-preorder-traversal.md) | 1 | Medium | `Tree` |
+| 0113 | [ Path Sum II](https://leetcode.com/problems/path-sum-ii/) | [Java](https://github.com/wdyfy/My-summary/blob/master/tree/144.-binary-tree-preorder-traversal.md) | 1 | Medium | `Tree` |
 | 0114 | [ Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [Java](https://github.com/wdyfy/My-summary/blob/master/tree/144.-binary-tree-preorder-traversal.md) | 1 | Medium | `Tree` |
 | 0115 | [ Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/115.-distinct-subsequences.md) | 1 | Hard | `DP` |
 | 0116 | [ Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [Java](https://github.com/wdyfy/My-summary/blob/master/tree/116.-populating-next-right-pointers-in-each-node.md) | 1 | Medium | `Tree` |
@@ -87,13 +87,13 @@
 | 0275 | [  H-Index II](https://leetcode.com/problems/h-index-ii/) | [Java](https://github.com/wdyfy/My-summary/blob/master/binary-search/275.-h-index-ii.md) | 1 | Medium | `BS` |
 | 0276 | [  Paint Fence$](./##) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/276.-paint-fence.md) | 1 | Easy | `DP` |
 | 0278 | [  First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Java](https://github.com/wdyfy/My-summary/blob/master/binary-search/278.-first-bad-version.md) | 1 | Easy | `BS` |
-| 0285 | [  Inorder Successor in BST$](#) | [Java](https://github.com/wdyfy/My-summary/blob/master/tree/285.-inorder-successor-in-bst.md) | 1 | Medium | `Tree` |
+| 0285 | [  Inorder Successor in BST$](./) | [Java](https://github.com/wdyfy/My-summary/blob/master/tree/285.-inorder-successor-in-bst.md) | 1 | Medium | `Tree` |
 | 0288 | [  Unique Word Abbreviation$](./##) | [Java](https://github.com/wdyfy/My-summary/blob/master/string/288.-unique-word-abbreviation.md) | 1 | Medium | `String` |
 | 0297 | [  Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree) | [Java](https://github.com/wdyfy/My-summary/blob/master/bfs/297.-serialize-and-deserialize-binary-tree.md) | 1 | Hard | `BFS` |
 | 0300 | [  Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/300.-longest-increasing-subsequence.md) | 1 | Medimu | `DP` |
 | 0304 | [  Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/304.-range-sum-query-2d-immutable.md) | 1 | Medimu | `DP` |
 | 0312 | [  Burst Balloons](https://leetcode.com/problems/burst-balloons/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/312.-burst-balloons.md) | 1 | Hard | `DP` |
-| 0314 | [  Binary Tree Vertical Order Traversal$](##) | [Java](https://github.com/wdyfy/My-summary/blob/master/tree/314.-binary-tree-vertical-order-traversal.md) | 1 | Medium | `Tree` |
+| 0314 | [  Binary Tree Vertical Order Traversal$](./##) | [Java](https://github.com/wdyfy/My-summary/blob/master/tree/314.-binary-tree-vertical-order-traversal.md) | 1 | Medium | `Tree` |
 | 0316 | [  Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) | [Java](https://github.com/wdyfy/My-summary/blob/master/monotone-stack/316.-remove-duplicate-letters.md) | 1 | Hard | `Monotone Stack` |
 | 0320 | [  Generalized Abbreviation$](./##) | [Java](https://github.com/wdyfy/My-summary/blob/master/monotone-stack/316.-remove-duplicate-letters.md) | 1 | Medium | `DFS` |
 | 0322 | [  Coin Change](https://leetcode.com/problems/coin-change/submissions/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/322.-coin-change.md) | 1 | Medimu | `DP` |
@@ -113,7 +113,7 @@
 | 0494 | [ Target Sum](https://leetcode.com/problems/target-sum/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/494.-target-sum.md) | 1 | Medium | `DP` |
 | 0496 | [ Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [Java](https://github.com/wdyfy/My-summary/blob/master/monotone-stack/496.-next-greater-element-i.md) | 1 | Easy | `Monotone Stack` |
 | 0503 | [ Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | [Java](https://github.com/wdyfy/My-summary/blob/master/monotone-stack/503.-next-greater-element-ii.md) | 2 | Medium | `Monotone Stack` |
-| 0510 | [  Inorder Successor in BST II$](#) | [Java](https://github.com/wdyfy/My-summary/blob/master/tree/510.-inorder-successor-in-bst-ii.md) | 1 | Medium | `Tree` |
+| 0510 | [  Inorder Successor in BST II$](./) | [Java](https://github.com/wdyfy/My-summary/blob/master/tree/510.-inorder-successor-in-bst-ii.md) | 1 | Medium | `Tree` |
 | 0551 | [ Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [Java](https://github.com/wdyfy/My-summary/blob/master/string/557.-reverse-words-in-a-string-iii.md) | 1 | Easy | `String` |
 | 0648 | [ Replace Words](https://leetcode.com/problems/replace-words/) | [Java](https://github.com/wdyfy/My-summary/blob/master/trie/648.-replace-words.md) | 1 | Medium | `Trie` |
 | 0658 | [ Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/) | [Java](https://github.com/wdyfy/My-summary/blob/master/binary-search-1/untitled.md) | 1 | Medium | `BS` |
