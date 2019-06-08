@@ -29,6 +29,7 @@
 | 0084 | [ Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [Java](https://github.com/wdyfy/My-summary/blob/master/monotone-stack/84.-largest-rectangle-in-histogram.md) | 2 | Hard | `Monotone Stack` |
 | 0085 | [ Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | [Java](https://github.com/wdyfy/My-summary/blob/master/monotone-stack/85.-maximal-rectangle.md) | 2 | Hard | `Monotone Stack` |
 | 0087 | [ Scramble String](https://leetcode.com/problems/scramble-string/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/87.-scramble-string.md) | 1 | Hard | `DP` |
+| 0094| [  Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Java](https://github.com/wdyfy/My-summary/blob/master/tree/94.-binary-tree-inorder-traversal.md) | 1 | Medium | `Tree` |
 | 0097 | [ Interleaving String](https://leetcode.com/problems/interleaving-string/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/97.-interleaving-string.md) | 1 | Hard | `DP` |
 | 0102 | [ Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Java](https://github.com/wdyfy/My-summary/blob/master/bfs/102.-binary-tree-level-order-traversal.md) | 1 | Medium | `BFS`,`DFS` |
 | 0103 | [ Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [Java](https://github.com/wdyfy/My-summary/blob/master/bfs/untitled-3.md) | 1 | Medium | `BFS`,`DFS` |
@@ -42,6 +43,8 @@
 | 0133 | [ Clone Graph](https://leetcode.com/problems/clone-graph/) | [Java](https://github.com/wdyfy/My-summary/blob/master/bfs/133.-clone-graph.md) | 1 | Medium | `BFS`,`DFS` |
 | 0139 | [  Word Break](https://leetcode.com/problems/word-break/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/139.-word-break.md) | 1 | Medium | `DP` |
 | 0140 | [  Word Break II](https://leetcode.com/problems/word-break-ii/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dfs/%20140.%20Word%20Break%20II.md) | 1 | Hard | `DP`,`DFS` |
+| 0144 | [   Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Java](https://github.com/wdyfy/My-summary/blob/master/tree/144.-binary-tree-preorder-traversal.md) | 1 | Medium | `Tree` |
+| 0145 | [  Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Java](https://github.com/wdyfy/My-summary/blob/master/tree/145.-binary-tree-postorder-traversal.md) | 1 | Hard | `Tree` |
 | 0151 | [  Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Java](https://github.com/wdyfy/My-summary/blob/master/string/151.-reverse-words-in-a-string.md) | 1 | Medium | `String` |
 | 0153 | [  Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Java](https://github.com/wdyfy/My-summary/blob/master/binary-search-1/153.-find-minimum-in-rotated-sorted-array.md) | 1 | Medium | `BS` |
 | 0162 | [ Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [Java](https://github.com/wdyfy/My-summary/blob/master/binary-search-1/162.-find-peak-element.md) | 1 | Medium | `BS` |
