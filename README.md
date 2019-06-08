@@ -59,6 +59,8 @@
 | 0214 | [  Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/) | [Java](https://github.com/wdyfy/My-summary/blob/master/string/214.-shortest-palindrome.md) | 1 | Hard | `String KMP` |
 | 0221 | [  Maximal Square](https://leetcode.com/problems/maximal-square/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/221.-maximal-square.md) | 1 | Medimu | `DP` |
 | 0222 | [  Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | [Java](https://github.com/wdyfy/My-summary/blob/master/binary-search/222.-count-complete-tree-nodes.md) | 1 | Medimu | `BS` |
+| 0235 | [  Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Java](https://github.com/wdyfy/My-summary/blob/master/tree/235.-lowest-common-ancestor-of-a-binary-search-tree.md) | 1 | Easy | `Tree` |
+| 0236 | [  Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [Java](https://github.com/wdyfy/My-summary/blob/master/tree/236.-lowest-common-ancestor-of-a-binary-tree.md) | 1 | Medimu | `Tree` |
 | 0240 | [  Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [Java](https://github.com/wdyfy/My-summary/blob/master/binary-search-1/240.-search-a-2d-matrix-ii.md) | 1 | Medimu | `BS` |
 | 0256 | [  Paint House$](./##) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/256.-paint-house.md) | 1 | Easy | `DP` |
 | 0261 | [  Graph Valid Tree$](./##) | [Java](https://github.com/wdyfy/My-summary/blob/master/bfs/261.-graph-valid-tree.md) | 1 | Medium | `BFS` |
