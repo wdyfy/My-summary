@@ -137,6 +137,22 @@
 * [117. Populating Next Right Pointers in Each Node II](tree/117.-populating-next-right-pointers-in-each-node-ii.md)
 * [113. Path Sum II](tree/113.-path-sum-ii.md)
 * [364. Nested List Weight Sum II](tree/364.-nested-list-weight-sum-ii.md)
+* [339. Nested List Weight Sum](tree/339.-nested-list-weight-sum.md)
+* [298. Binary Tree Longest Consecutive Sequence](tree/298.-binary-tree-longest-consecutive-sequence.md)
+* [129. Sum Root to Leaf Numbers](tree/129.-sum-root-to-leaf-numbers.md)
+* [112. Path Sum](tree/112.-path-sum.md)
+* [543. Diameter of Binary Tree](tree/543.-diameter-of-binary-tree.md)
+* [331. Verify Preorder Serialization of a Binary Tree](tree/331.-verify-preorder-serialization-of-a-binary-tree.md)
+* [156. Binary Tree Upside Down](tree/156.-binary-tree-upside-down.md)
+* [199. Binary Tree Right Side View](tree/199.-binary-tree-right-side-view.md)
+* [222. Count Complete Tree Nodes](tree/222.-count-complete-tree-nodes.md)
+* [250. Count Univalue Subtrees](tree/250.-count-univalue-subtrees.md)
+* [333. Largest BST Subtree](tree/333.-largest-bst-subtree.md)
+* [124. Binary Tree Maximum Path Sum](tree/124.-binary-tree-maximum-path-sum.md)
+* [101. Symmetric Tree](tree/101.-symmetric-tree.md)
+* [100. Same Tree](tree/100.-same-tree.md)
+* [108. Convert Sorted Array to Binary Search Tree](tree/108.-convert-sorted-array-to-binary-search-tree.md)
+* [255. Verify Preorder Sequence in Binary Search Tree](tree/255.-verify-preorder-sequence-in-binary-search-tree.md)
 
 ## Sliding Windows
 
