@@ -153,6 +153,10 @@
 * [100. Same Tree](tree/100.-same-tree.md)
 * [108. Convert Sorted Array to Binary Search Tree](tree/108.-convert-sorted-array-to-binary-search-tree.md)
 * [255. Verify Preorder Sequence in Binary Search Tree](tree/255.-verify-preorder-sequence-in-binary-search-tree.md)
+* [99. Recover Binary Search Tree](tree/99.-recover-binary-search-tree.md)
+* [96. Unique Binary Search Trees](tree/96.-unique-binary-search-trees.md)
+* [95. Unique Binary Search Trees II](tree/95.-unique-binary-search-trees-ii.md)
+* [341. Flatten Nested List Iterator](tree/341.-flatten-nested-list-iterator.md)
 
 ## Sliding Windows
 
