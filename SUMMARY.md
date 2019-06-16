@@ -246,4 +246,6 @@
 * [15. 3Sum](two-pointers/15.-3sum.md)
 * [170. Two Sum III - Data structure design](two-pointers/170.-two-sum-iii-data-structure-design.md)
 * [167. Two Sum II - Input array is sorted](two-pointers/167.-two-sum-ii-input-array-is-sorted.md)
+* [454. 4Sum II](two-pointers/454.-4sum-ii.md)
+* [611. Valid Triangle Number](two-pointers/611.-valid-triangle-number.md)
 
