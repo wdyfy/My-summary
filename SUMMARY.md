@@ -244,4 +244,6 @@
 ## two pointers
 
 * [15. 3Sum](two-pointers/15.-3sum.md)
+* [170. Two Sum III - Data structure design](two-pointers/170.-two-sum-iii-data-structure-design.md)
+* [167. Two Sum II - Input array is sorted](two-pointers/167.-two-sum-ii-input-array-is-sorted.md)
 
