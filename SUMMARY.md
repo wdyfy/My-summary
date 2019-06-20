@@ -248,4 +248,7 @@
 * [167. Two Sum II - Input array is sorted](two-pointers/167.-two-sum-ii-input-array-is-sorted.md)
 * [454. 4Sum II](two-pointers/454.-4sum-ii.md)
 * [611. Valid Triangle Number](two-pointers/611.-valid-triangle-number.md)
+* [215. Kth Largest Element in an Array](two-pointers/215.-kth-largest-element-in-an-array.md)
+* [159. Longest Substring with At Most Two Distinct Characters](two-pointers/159.-longest-substring-with-at-most-two-distinct-characters.md)
+* [340. Longest Substring with At Most K Distinct Characters](two-pointers/340.-longest-substring-with-at-most-k-distinct-characters.md)
 
