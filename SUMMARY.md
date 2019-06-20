@@ -191,6 +191,7 @@
 ## PriorityQueue
 
 * [1046. Last Stone Weight](priorityqueue/1046.-last-stone-weight.md)
+* [373. Find K Pairs with Smallest Sums](priorityqueue/373.-find-k-pairs-with-smallest-sums.md)
 
 ## Stack
 
