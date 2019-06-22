@@ -260,4 +260,7 @@
 * [280. Wiggle Sort](two-pointers/280.-wiggle-sort.md)
 * [324. Wiggle Sort II](two-pointers/324.-wiggle-sort-ii.md)
 * [209. Minimum Size Subarray Sum](two-pointers/209.-minimum-size-subarray-sum.md)
+* [3. Longest Substring Without Repeating Characters](two-pointers/3.-longest-substring-without-repeating-characters.md)
+* [159. Longest Substring with At Most Two Distinct Characters](two-pointers/159.-longest-substring-with-at-most-two-distinct-characters-1.md)
+* [340. Longest Substring with At Most K Distinct Characters](two-pointers/340.-longest-substring-with-at-most-k-distinct-characters-1.md)
 
