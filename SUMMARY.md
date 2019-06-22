@@ -252,4 +252,6 @@
 * [215. Kth Largest Element in an Array](two-pointers/215.-kth-largest-element-in-an-array.md)
 * [159. Longest Substring with At Most Two Distinct Characters](two-pointers/159.-longest-substring-with-at-most-two-distinct-characters.md)
 * [340. Longest Substring with At Most K Distinct Characters](two-pointers/340.-longest-substring-with-at-most-k-distinct-characters.md)
+* [1. Two Sum](two-pointers/1.-two-sum.md)
+* [16. 3Sum Closest](two-pointers/16.-3sum-closest.md)
 

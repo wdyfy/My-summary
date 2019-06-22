@@ -10,7 +10,7 @@
 | 0010 | [ Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/10.-regular-expression-matching.md) | 1 | Hard | `DP` |
 | 0014 | [  Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Java](https://github.com/wdyfy/My-summary/blob/master/string/14.-longest-common-prefix.md) | 1 | Easy | `String` |
 | 0015 | [  3Sum](https://leetcode.com/problems/3sum/) | [Java](https://github.com/wdyfy/My-summary/blob/master/two-pointers/15.-3sum.md) | 1 | Medium | `Two Pointers` |
-| 0016 | [ 3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [Java](#) | 1 | Medium | `Two Pointers` |
+| 0016 | [ 3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [Java](./) | 1 | Medium | `Two Pointers` |
 | 0020 | [ Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Java](https://github.com/wdyfy/My-summary/blob/master/string/20.-valid-parentheses.md) | 3 | Easy | `String` |
 | 0031 | [ Next Permutation](https://leetcode.com/problems/next-permutation/) | [Java](https://github.com/wdyfy/My-summary/blob/master/string/31.-next-permutation.md) | 1 | Medium | `String` |
 | 0033 | [ Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Java](https://github.com/wdyfy/My-summary/blob/master/binary-search-1/33.-search-in-rotated-sorted-array.md) | 1 | Medium | `BS` |
@@ -69,11 +69,11 @@
 | 0145 | [  Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Java](https://github.com/wdyfy/My-summary/blob/master/tree/145.-binary-tree-postorder-traversal.md) | 1 | Hard | `Tree` |
 | 0151 | [  Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Java](https://github.com/wdyfy/My-summary/blob/master/string/151.-reverse-words-in-a-string.md) | 1 | Medium | `String` |
 | 0153 | [  Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Java](https://github.com/wdyfy/My-summary/blob/master/binary-search-1/153.-find-minimum-in-rotated-sorted-array.md) | 1 | Medium | `BS` |
-| 0156 | [  Binary Tree Upside Down$](##) | [Java](https://github.com/wdyfy/My-summary/blob/master/tree/156.-binary-tree-upside-down.md) | 1 | Medium | `Tree` |
-| 0159 | [  Longest Substring with At Most Two Distinct Characters$](##) | [Java](https://github.com/wdyfy/My-summary/blob/master/two-pointers/159.-longest-substring-with-at-most-two-distinct-characters.md) | 1 | Medium | `Two Pointers` |
+| 0156 | [  Binary Tree Upside Down$](./##) | [Java](https://github.com/wdyfy/My-summary/blob/master/tree/156.-binary-tree-upside-down.md) | 1 | Medium | `Tree` |
+| 0159 | [  Longest Substring with At Most Two Distinct Characters$](./##) | [Java](https://github.com/wdyfy/My-summary/blob/master/two-pointers/159.-longest-substring-with-at-most-two-distinct-characters.md) | 1 | Medium | `Two Pointers` |
 | 0162 | [ Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [Java](https://github.com/wdyfy/My-summary/blob/master/binary-search-1/162.-find-peak-element.md) | 1 | Medium | `BS` |
 | 0167 | [ Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Java](https://github.com/wdyfy/My-summary/blob/master/two-pointers/167.-two-sum-ii-input-array-is-sorted.md) | 1 | Easy | `Two Pointers` |
-| 0170 | [ Two Sum III - Data structure design$](#) | [Java](https://github.com/wdyfy/My-summary/blob/master/two-pointers/170.-two-sum-iii-data-structure-design.md) | 1 | Easy | `Two Pointers` |
+| 0170 | [ Two Sum III - Data structure design$](./) | [Java](https://github.com/wdyfy/My-summary/blob/master/two-pointers/170.-two-sum-iii-data-structure-design.md) | 1 | Easy | `Two Pointers` |
 | 0173 | [ Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | [Java](https://github.com/wdyfy/My-summary/blob/master/tree/173.-binary-search-tree-iterator.md) | 1 | Medium | `Tree` |
 | 0174 | [ Dungeon Game](https://leetcode.com/problems/dungeon-game/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/174.-dungeon-game.md) | 1 | Hard | `DP` |
 | 0186 | [ Reverse Words in a String II$](https://leetcode.com/problems/rotate-array/) | [Java](https://github.com/wdyfy/My-summary/blob/master/string/189.-rotate-array.md) | 1 | Easy | `String` |
@@ -91,7 +91,7 @@
 | 0235 | [  Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Java](https://github.com/wdyfy/My-summary/blob/master/tree/235.-lowest-common-ancestor-of-a-binary-search-tree.md) | 1 | Easy | `Tree` |
 | 0236 | [  Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [Java](https://github.com/wdyfy/My-summary/blob/master/tree/236.-lowest-common-ancestor-of-a-binary-tree.md) | 1 | Medimu | `Tree` |
 | 0240 | [  Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [Java](https://github.com/wdyfy/My-summary/blob/master/binary-search-1/240.-search-a-2d-matrix-ii.md) | 1 | Medimu | `BS` |
-| 0250 | [  Count Univalue Subtrees$](##) | [Java](https://github.com/wdyfy/My-summary/blob/master/tree/250.-count-univalue-subtrees.md) | 1 | Medimu | `Tree` |
+| 0250 | [  Count Univalue Subtrees$](./##) | [Java](https://github.com/wdyfy/My-summary/blob/master/tree/250.-count-univalue-subtrees.md) | 1 | Medimu | `Tree` |
 | 0255 | [  Verify Preorder Sequence in Binary Search Tree$](./##) | [Java](https://github.com/wdyfy/My-summary/blob/master/tree/255.-verify-preorder-sequence-in-binary-search-tree.md) | 1 | Medium | `Tree` |
 | 0256 | [  Paint House$](./##) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/256.-paint-house.md) | 1 | Easy | `DP` |
 | 0261 | [  Graph Valid Tree$](./##) | [Java](https://github.com/wdyfy/My-summary/blob/master/bfs/261.-graph-valid-tree.md) | 1 | Medium | `BFS` |
@@ -109,7 +109,7 @@
 | 0285 | [  Inorder Successor in BST$](./) | [Java](https://github.com/wdyfy/My-summary/blob/master/tree/285.-inorder-successor-in-bst.md) | 1 | Medium | `Tree` |
 | 0288 | [  Unique Word Abbreviation$](./##) | [Java](https://github.com/wdyfy/My-summary/blob/master/string/288.-unique-word-abbreviation.md) | 1 | Medium | `String` |
 | 0297 | [  Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree) | [Java](https://github.com/wdyfy/My-summary/blob/master/bfs/297.-serialize-and-deserialize-binary-tree.md) | 1 | Hard | `BFS` |
-| 0298 | [  Binary Tree Longest Consecutive Sequence$](#) | [Java](https://github.com/wdyfy/My-summary/blob/master/tree/298.-binary-tree-longest-consecutive-sequence.md) | 1 | Medium | `Tree` |
+| 0298 | [  Binary Tree Longest Consecutive Sequence$](./) | [Java](https://github.com/wdyfy/My-summary/blob/master/tree/298.-binary-tree-longest-consecutive-sequence.md) | 1 | Medium | `Tree` |
 | 0300 | [  Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/300.-longest-increasing-subsequence.md) | 1 | Medimu | `DP` |
 | 0304 | [  Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/304.-range-sum-query-2d-immutable.md) | 1 | Medimu | `DP` |
 | 0312 | [  Burst Balloons](https://leetcode.com/problems/burst-balloons/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/312.-burst-balloons.md) | 1 | Hard | `DP` |
@@ -117,16 +117,16 @@
 | 0316 | [  Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) | [Java](https://github.com/wdyfy/My-summary/blob/master/monotone-stack/316.-remove-duplicate-letters.md) | 1 | Hard | `Monotone Stack` |
 | 0320 | [  Generalized Abbreviation$](./##) | [Java](https://github.com/wdyfy/My-summary/blob/master/monotone-stack/316.-remove-duplicate-letters.md) | 1 | Medium | `DFS` |
 | 0322 | [  Coin Change](https://leetcode.com/problems/coin-change/submissions/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/322.-coin-change.md) | 1 | Medimu | `DP` |
-| 0331 | [  Verify Preorder Serialization of a Binary Tree$](##) | [Java](https://github.com/wdyfy/My-summary/blob/master/tree/331.-verify-preorder-serialization-of-a-binary-tree.md) | 1 | Medimu | `Tree` |
-| 0333 | [  Largest BST Subtree$](##) | [Java](https://github.com/wdyfy/My-summary/blob/master/tree/333.-largest-bst-subtree.md) | 1 | Medimu | `Tree` |
-| 0339 | [  Nested List Weight Sum$](##) | [Java](https://github.com/wdyfy/My-summary/blob/master/tree/339.-nested-list-weight-sum.md) | 1 | Easy | `Tree` |
+| 0331 | [  Verify Preorder Serialization of a Binary Tree$](./##) | [Java](https://github.com/wdyfy/My-summary/blob/master/tree/331.-verify-preorder-serialization-of-a-binary-tree.md) | 1 | Medimu | `Tree` |
+| 0333 | [  Largest BST Subtree$](./##) | [Java](https://github.com/wdyfy/My-summary/blob/master/tree/333.-largest-bst-subtree.md) | 1 | Medimu | `Tree` |
+| 0339 | [  Nested List Weight Sum$](./##) | [Java](https://github.com/wdyfy/My-summary/blob/master/tree/339.-nested-list-weight-sum.md) | 1 | Easy | `Tree` |
 | 0341 | [  Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) | [Java](https://github.com/wdyfy/My-summary/blob/master/tree/341.-flatten-nested-list-iterator.md) | 1 | Medium | `Tree` |
 | 0351 | [  Android Unlock Patterns$](./) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/351.-android-unlock-patterns.md) | 1 | Medimu | `DP` |
 | 0357 | [  Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/357.-count-numbers-with-unique-digits.md) | 1 | Medimu | `DP` |
 | 0359 | [  Logger Rate Limiter$](./) | [Java](https://github.com/wdyfy/My-summary/blob/master/design/359.-logger-rate-limiter.md) | 1 | Easy | `Design` |
 | 0361 | [  Bomb Enemy$](./) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/361.-bomb-enemy.md) | 1 | Medimu | `DP` |
 | 0363 | [  Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/363.-max-sum-of-rectangle-no-larger-than-k.md) | 1 | Hard | `DP` |
-| 0364 | [  Nested List Weight Sum II$](#) | [Java](https://github.com/wdyfy/My-summary/blob/master/tree/364.-nested-list-weight-sum-ii.md) | 1 | Medium | `Tree` |
+| 0364 | [  Nested List Weight Sum II$](./) | [Java](https://github.com/wdyfy/My-summary/blob/master/tree/364.-nested-list-weight-sum-ii.md) | 1 | Medium | `Tree` |
 | 0367 | [  Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | [Java](https://github.com/wdyfy/My-summary/blob/master/binary-search/367.-valid-perfect-square.md) | 1 | Easy | `BS` |
 | 0372 | [  Super Pow](https://leetcode.com/problems/super-pow/) | [Java](https://github.com/wdyfy/My-summary/blob/master/binary-search/372.-super-pow.md) | 1 | Medium | `BS` |
 | 0375 | [  Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | [Java](https://github.com/wdyfy/My-summary/blob/master/binary-search/374.-guess-number-higher-or-lower.md) | 1 | Easy | `BS` |
