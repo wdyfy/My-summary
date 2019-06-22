@@ -255,4 +255,7 @@
 * [1. Two Sum](two-pointers/1.-two-sum.md)
 * [16. 3Sum Closest](two-pointers/16.-3sum-closest.md)
 * [11. Container With Most Water](two-pointers/11.-container-with-most-water.md)
+* [215. Kth Largest Element in an Array](two-pointers/215.-kth-largest-element-in-an-array-1.md)
+* [75. Sort Colors](two-pointers/75.-sort-colors.md)
+* [280. Wiggle Sort](two-pointers/280.-wiggle-sort.md)
 
