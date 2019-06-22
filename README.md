@@ -114,6 +114,7 @@
 | 0331 | [  Verify Preorder Serialization of a Binary Tree$](##) | [Java](https://github.com/wdyfy/My-summary/blob/master/tree/331.-verify-preorder-serialization-of-a-binary-tree.md) | 1 | Medimu | `Tree` |
 | 0333 | [  Largest BST Subtree$](##) | [Java](https://github.com/wdyfy/My-summary/blob/master/tree/333.-largest-bst-subtree.md) | 1 | Medimu | `Tree` |
 | 0339 | [  Nested List Weight Sum$](##) | [Java](https://github.com/wdyfy/My-summary/blob/master/tree/339.-nested-list-weight-sum.md) | 1 | Easy | `Tree` |
+| 0341 | [  Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) | [Java](https://github.com/wdyfy/My-summary/blob/master/tree/341.-flatten-nested-list-iterator.md) | 1 | Medium | `Tree` |
 | 0351 | [  Android Unlock Patterns$](./) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/351.-android-unlock-patterns.md) | 1 | Medimu | `DP` |
 | 0357 | [  Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/357.-count-numbers-with-unique-digits.md) | 1 | Medimu | `DP` |
 | 0359 | [  Logger Rate Limiter$](./) | [Java](https://github.com/wdyfy/My-summary/blob/master/design/359.-logger-rate-limiter.md) | 1 | Easy | `Design` |
