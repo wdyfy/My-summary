@@ -2,6 +2,7 @@
 
 | NO. | Title | Solution | Note | Difficulty | Tag |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 0001 | [  Two Sum](https://leetcode.com/problems/two-sum/) | [Java](https://github.com/wdyfy/My-summary/blob/master/list/2.-add-two-numbers.md) | 3 | Easy | `Two Pointers` |
 | 0002 | [  Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Java](https://github.com/wdyfy/My-summary/blob/master/list/2.-add-two-numbers.md) | 3 | Medium | `List` |
 | 0003 | [  Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Java](https://github.com/wdyfy/My-summary/blob/master/string/3.-longest-substring-without-repeating-characters.md) | 3 | Medium | `String` |
 | 0004 | [  Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Java](https://github.com/wdyfy/My-summary/blob/master/binary-search-1/4.-median-of-two-sorted-arrays.md) | 1 | Hard | `BS` |
@@ -68,6 +69,8 @@
 | 0153 | [  Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Java](https://github.com/wdyfy/My-summary/blob/master/binary-search-1/153.-find-minimum-in-rotated-sorted-array.md) | 1 | Medium | `BS` |
 | 0156 | [  Binary Tree Upside Down$](##) | [Java](https://github.com/wdyfy/My-summary/blob/master/tree/156.-binary-tree-upside-down.md) | 1 | Medium | `Tree` |
 | 0162 | [ Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [Java](https://github.com/wdyfy/My-summary/blob/master/binary-search-1/162.-find-peak-element.md) | 1 | Medium | `BS` |
+| 0167 | [ Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Java](https://github.com/wdyfy/My-summary/blob/master/two-pointers/167.-two-sum-ii-input-array-is-sorted.md) | 1 | Easy | `Two Pointers` |
+| 0170 | [ Two Sum III - Data structure design$](#) | [Java](https://github.com/wdyfy/My-summary/blob/master/two-pointers/170.-two-sum-iii-data-structure-design.md) | 1 | Easy | `Two Pointers` |
 | 0173 | [ Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | [Java](https://github.com/wdyfy/My-summary/blob/master/tree/173.-binary-search-tree-iterator.md) | 1 | Medium | `Tree` |
 | 0174 | [ Dungeon Game](https://leetcode.com/problems/dungeon-game/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/174.-dungeon-game.md) | 1 | Hard | `DP` |
 | 0186 | [ Reverse Words in a String II$](https://leetcode.com/problems/rotate-array/) | [Java](https://github.com/wdyfy/My-summary/blob/master/string/189.-rotate-array.md) | 1 | Easy | `String` |
