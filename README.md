@@ -9,6 +9,8 @@
 | 0005 | [ Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/5.-longest-palindromic-substring.md) | 2 | Medium | `DP` |
 | 0010 | [ Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [Java](https://github.com/wdyfy/My-summary/blob/master/dynamic-programming/10.-regular-expression-matching.md) | 1 | Hard | `DP` |
 | 0014 | [  Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Java](https://github.com/wdyfy/My-summary/blob/master/string/14.-longest-common-prefix.md) | 1 | Easy | `String` |
+| 0015 | [  3Sum](https://leetcode.com/problems/3sum/) | [Java](https://github.com/wdyfy/My-summary/blob/master/two-pointers/15.-3sum.md) | 1 | Medium | `Two Pointers` |
+| 0016 | [ 3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [Java](#) | 1 | Medium | `Two Pointers` |
 | 0020 | [ Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Java](https://github.com/wdyfy/My-summary/blob/master/string/20.-valid-parentheses.md) | 3 | Easy | `String` |
 | 0031 | [ Next Permutation](https://leetcode.com/problems/next-permutation/) | [Java](https://github.com/wdyfy/My-summary/blob/master/string/31.-next-permutation.md) | 1 | Medium | `String` |
 | 0033 | [ Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Java](https://github.com/wdyfy/My-summary/blob/master/binary-search-1/33.-search-in-rotated-sorted-array.md) | 1 | Medium | `BS` |
